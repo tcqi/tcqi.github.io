@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/About.astro
 name: Xiaohan Zou
-subname: 邹笑寒
+subname: qtc
 avatar: img/me.jpg
 socials:
   - icon: i-academicons:cv
