@@ -47,7 +47,7 @@ Previously, she received her master's degree in [Computer Science](https://www.b
 
 Preprint, 2022
 
-[paper](/files/papers/ijcnn2022/交换代数续-戚天成-2023.pdf)
+[paper](/files/papers/交换代数续-戚天成-2023.pdf)
 :::
 
 :::paper
