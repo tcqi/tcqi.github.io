@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/About.astro
-name: Xiaohan Zou
+name: 戚天成
 subname: qtc
 avatar: img/me.jpg
 socials:
