@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/About.astro
 name: 戚天成
-subname: qtc
+subname: TianCheng Qi
 avatar: img/me.jpg
 socials:
   - icon: i-academicons:cv
