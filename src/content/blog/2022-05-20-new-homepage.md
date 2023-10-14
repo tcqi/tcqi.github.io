@@ -8,12 +8,12 @@ title: New homepage
 \begin{proof}先证 $ P $ 的任一顶点 $ V $ 在 $ \sigma $ 作用下必定在 $ P $ 的边界上. 再说明 $ \sigma(V) $ 不可能落在多边形某条边的内部.
 
 $$ 
-\begin{tikzcd}
+\begin{aligned}
                                            & C \arrow[rd, no head] &                      &                       &                       \\
                                            &                       & D \arrow[r, no head] & M \arrow[rd, no head] &                       \\
 B \arrow[rd, no head] \arrow[ruu, no head] &                       &                      &                       & V \arrow[ld, no head] \\
                                            & A \arrow[rr, no head] &                      & N                     &                      
-\end{tikzcd}
+\end{aligned}
 $$
 
 假设 $ V^{\prime}=\sigma(V) $ 在多边形 $ P $ 的内部, 那么存在闭圆盘 $ D $ 满足 $ D $ 以 $ V^{\prime} $ 为圆心且 $ D\subseteq P $ . 于是对介于 $ 0^{\circ} $ 到 $ 360^{\circ} $ 的任意角 $ \alpha $ , 存在 $ D $ 中点 $ J^{\prime},K^{\prime}(J^{\prime}=\sigma(J),K^{\prime}=\sigma(K),J,K\in P) $ 使得 $ \angle J^{\prime}V^{\prime}K^{\prime}=\alpha $ , 因为正交变换保持角度, 所以 $ \angle JVK=\angle J^{\prime}V^{\prime}K^{\prime}=\alpha $ .但 $ P $ 中任何以 $ V $ 为顶点的角都不超过 $ \angle MVN\textless 360^{\circ} $ , 所以选取 $ \alpha\textgreater\angle MVN $ 即可得到矛盾, 于是知 $ V^{\prime} $ 在 $ P $ 的边界上. 下面说明 $ V^{\prime} $ 不可能在 $ P $ 的某条边的内部. 假设 $ V^{\prime} $ 在某条边内部. 当 $ \angle MVN\textless 180^{\circ} $ 时, 存在 $ J^{\prime},K^{\prime}\in P $ 使得 $ \angle J^{\prime}V^{\prime}K^{\prime}=180^{\circ} $ , 因此 $ \angle JVK=180^{\circ} $ . 但 $ \angle JVK\leq \angle MVN\textless 180^{\circ} $ , 这就得到了矛盾. 
