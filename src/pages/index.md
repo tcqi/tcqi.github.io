@@ -17,7 +17,7 @@ socials:
   - icon: i-ri:twitter-fill
     link: https://www.twitter.com/renovamen_zxh
   - icon: i-ant-design:zhihu-outlined
-    link: https://www.zhihu.com/people/chao-neng-gui-su
+    link: https://www.zhihu.com/people/qi-tian-cheng-2-91
   - icon: i-ri:game-line
     link: https://portfolio.zxh.io
     name: Portfolio
