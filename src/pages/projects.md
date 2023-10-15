@@ -22,6 +22,10 @@ projects:
       link: https://webusers.imj-prg.fr/~bernhard.keller/indexe.html
       desc: Bernhard Keller is a professor at the University of Paris VII
       icon: i-solar:planet-linear
+    - name: Changchang Xi's Homepage
+      link: https://www.wemath.cn/~ccxi/EngTeaching.php
+      desc: Changchang Xi is a professor at the School of Mathematical Sciences of the Capital Normal University
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
