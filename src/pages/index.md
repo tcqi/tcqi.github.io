@@ -52,10 +52,7 @@ Journal of Computational and Applied Mathematics, 2021
 |                                                                                                                                                             |           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fundan University, China                                                             | 2023.9–2024.1 |
-| **ResearTeachingch Assistant**, _[Peking University](https://english.pku.edu.cn/)_, Remote (with Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm)) | 2020–2022 |
-| **Software Engineer Intern**, _China Electronics Technology Group Corporation_                                                                              | 2020–2021 |
-| **Game Engineer Intern**, _[Banana Interactive](https://banana.games/)_, Shanghai, China                                                                    | 2019–2020 |
-| **Research Assistant**, _[Peking University](https://english.pku.edu.cn/)_, Beijing, China (with Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm)) | 2018      |
+
 
 
 ## Notes
@@ -73,22 +70,3 @@ I am a person who is keen on using  $ \LaTeX $ to write some algebra notes.
 
 
 
-## Miscellaneous
-
-- 🚀 This [personal website](https://github.com/Renovamen/renovamen.github.io) is built with [Astro](https://astro.build/), [Solid](https://www.solidjs.com/) and [UnoCSS](https://github.com/antfu/unocss)
-
-- 🧐 Here are two "interesting" versions of my portfolio/cv: [portfolio.zxh.io](https://portfolio.zxh.io/), [resume.zxh.io](https://resume.zxh.io/)
-
-- 🎃 _Renovamen_ is a Latin word means _renewal_
-
-- 🖥 Ex-OIer/ACMer
-
-- 🛠 Like to contribute to open-source machine learning and frontend projects in spare time
-
-- 🥎 Used to be a member of the softball team of Tongji University
-
-- 🌭 My dream: `while(sleeping){money++;}`
-
-- 🕹️ Currently interested in *Minecraft* and *Monster Hunter: World*
-
-- 📜 大概率更新不及时的[中文简历](/files/cv/cn.pdf)
