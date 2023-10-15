@@ -2,4 +2,4 @@
 title: New homepage
 ---
 
-This is my new homepage!
+Welcome to my new homepage! XD
