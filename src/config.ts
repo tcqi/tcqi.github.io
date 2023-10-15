@@ -1,8 +1,8 @@
 export const SITE = {
-  website: "https://zxh.io/",
-  title: "Xiaohan Zou",
-  desc: "A dragon lost in human world.",
-  author: "Xiaohan Zou"
+  website: "https://tcqi.io/",
+  title: "Tian- Cheng Qi",
+  desc: "A mathman in love.",
+  author: "Tian-Cheng Qi"
 };
 
 export const THEME = {

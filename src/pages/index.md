@@ -11,7 +11,7 @@ socials:
   - icon: i-eva:github-outline
     link: https://github.com/tcqi
   - icon: i-radix-icons:linkedin-logo
-    link: https://www.linkedin.com/in/xiaohan-zou
+    link: https://www.linkedin.com/
   - icon: i-academicons:google-scholar
     link: https://scholar.google.com/citations?user=RuW6xgMAAAAJ
   - icon: i-ri:twitter-fill
