@@ -18,6 +18,11 @@ projects:
       link: https://mathweb.ucsd.edu/~drogalsk/
       desc: Rogalski is a Professor of Mathematics at the University of California San Diego
       icon: i-solar:planet-linear
+  Homepages of My Friends:
+    - name: DaWei Zhou's Homepage
+      link: https://www.c01day.com/about/
+      desc: DaWei helped me build this homepage :)
+      icon: i-lucide:hammer
   Websites:
     - name: Mathematics Genealogy Project
       link: https://www.mathgenealogy.org/index.php
