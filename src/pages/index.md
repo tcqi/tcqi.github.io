@@ -66,6 +66,7 @@ I am a person who is keen on using  $ \LaTeX $ to write algebra notes.
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf), LaTeX, 2023
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf), LaTeX, 2023
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf), LaTeX, 2023
+- [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf), LaTeX, 2023
 ## Miscellaneous
 
 - 🚀 This [personal website](https://github.com/Renovamen/renovamen.github.io) is built with [Astro](https://astro.build/), [Solid](https://www.solidjs.com/) and [UnoCSS](https://github.com/antfu/unocss)
