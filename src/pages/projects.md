@@ -74,12 +74,6 @@ projects:
       link: https://math.berkeley.edu/~gbergman/
       desc: Bergman is a master at constructing counterexamples
       icon: i-solar:planet-linear
-      tech:
-        - i-logos:preact
-        - i-logos:typescript-icon
-        - i-logos:unocss
-        - i-logos:vitejs
-      repo: Renovamen/playground-macos
     - name: V. Dolgushev's Homepage
       link: https://math.temple.edu/~vald/
       desc: Dolgushev proved the Tsygan’s formality conjecture for an arbitrary smooth manifold
