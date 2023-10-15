@@ -48,16 +48,16 @@ Journal of Computational and Applied Mathematics, 2021.
 
 ## Notes
 I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic topics. The following are some of my notes. There might be some typos and mistakes in these notes. Please let me know if you see one. Thanks!
-- [Commutative Algebra](/files/notes/CA2-2023.pdf), LaTeX, 2023
-- [Goldie's Theorem](/files/notes/GoldieThm.pdf), LaTeX, 2023
-- [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), LaTeX, 2023
-- [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf), LaTeX, 2023
-- [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf), LaTeX, 2023
-- [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf), LaTeX, 2023
-- [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf), LaTeX, 2023
-- [Morita Equivalence](/files/notes/Moritaequiv.pdf), LaTeX, 2023
-- [Quotient Category](/files/notes/quotientcat.pdf), LaTeX, 2023
-- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf), LaTeX, 2023
-- [Dihedral Group](/files/notes/Dihedralgroup.pdf), LaTeX, 2023
+- [Commutative Algebra](/files/notes/CA2-2023.pdf), $ \LaTeX $, 2023
+- [Goldie's Theorem](/files/notes/GoldieThm.pdf), $ \LaTeX $, 2023
+- [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), $ \LaTeX $, 2023
+- [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf), $ \LaTeX $, 2023
+- [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf), $ \LaTeX $, 2023
+- [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf), $ \LaTeX $, 2023
+- [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf), $ \LaTeX $, 2023
+- [Morita Equivalence](/files/notes/Moritaequiv.pdf), $ \LaTeX $, 2023
+- [Quotient Category](/files/notes/quotientcat.pdf), $ \LaTeX $, 2023
+- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf), $ \LaTeX $, 2023
+- [Dihedral Group](/files/notes/Dihedralgroup.pdf), $ \LaTeX $, 2023
 
 
