@@ -4,8 +4,6 @@ name: 戚天成
 subname: Tian-Cheng Qi
 avatar: img/me.jpg
 socials:
-  - icon: i-academicons:cv
-    link: /files/cv/en.pdf
   - icon: "i-ion:mail-outline"
     link: "mailto:qtcmaths@126.com"
   - icon: i-eva:github-outline
@@ -14,13 +12,8 @@ socials:
     link: https://www.linkedin.com/
   - icon: i-academicons:google-scholar
     link: https://scholar.google.com/citations?user=RuW6xgMAAAAJ
-  - icon: i-ri:twitter-fill
-    link: https://www.twitter.com/renovamen_zxh
   - icon: i-ant-design:zhihu-outlined
     link: https://www.zhihu.com/people/qi-tian-cheng-2-91
-  - icon: i-ri:game-line
-    link: https://portfolio.zxh.io
-    name: Portfolio
 ---
 
 Tian-Cheng is a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). His current research interests lie primarily in noncommutative algebra, Poisson algebra and algebraic problems arising from mathematical physics. He is also interested in Rubik's Cube and badminton.
@@ -47,7 +40,7 @@ Journal of Computational and Applied Mathematics, 2021
 
 
 
-## Teaching assistant
+## Teaching Assistant
 
 |                                                                                                                                                             |           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
