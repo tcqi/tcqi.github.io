@@ -26,7 +26,7 @@ Previously, I received my bachelor's degree in [Mathematics and Applied Mathemat
 |                                        |           |
 |--------------------------------------- | --------- |
 | **B.S. in Mathematics and Applied Mathematics**, Shanghai University <p>Thesis: _The Restricted Singular Value Decomposition of Three Matrices and Its Applications_</p> | 2017-2021 |
-
+---
 
 ## Publications
 
@@ -45,12 +45,13 @@ Journal of Computational and Applied Mathematics, 2021.
 |                                        |           |
 |--------------------------------------- | --------- |
 | **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fundan University, China  | 2023.9–2024.1 |
-
+---
 
 
 ## Notes
 I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic topics. The following are some of my notes. There might be some typos and mistakes in these notes. Please let me know if you see one. Thanks!
 
+---
 - [Commutative Algebra](/files/notes/CA2-2023.pdf), edited via $ \LaTeX $, 2023
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf), edited via $ \LaTeX $, 2023
 - [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), edited via $ \LaTeX $, 2023
