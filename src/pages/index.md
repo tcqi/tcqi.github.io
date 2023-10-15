@@ -25,9 +25,9 @@ socials:
 
 Tian-Cheng is a PhD student at the [Mathematics](https://math.fudan.edu.cn/) department of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). His current research interests lie primarily in algebraic problems arising from mathematical physics. He is also interested in Rubik's Cube and badminton.
 
-Previously, she received her master's degree in [Computer Science](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/) and bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/). She has also interned in Kuaishou and PKU.
+Previously, he received his bachelor's degree in [Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/). 
 
-[Curriculum Vitae](/files/cv/en.pdf) / renovamenzxh@gmail.com
+[Curriculum Vitae](/files/cv/en.pdf) / qtcmaths@126.com
 
 
 ## Education
