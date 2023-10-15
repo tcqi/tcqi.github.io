@@ -59,9 +59,9 @@ Journal of Computational and Applied Mathematics, 2021
 
 
 ## Notes
-
-- [Meta / Few-shot Learning](/files/talks/2021-08-meta-learning.pdf), Kuaishou, 08/2021
-- [Continual Learning: Meta Continual Learning & Task Free Settings](/files/talks/2020-08-continual-learning.pdf), Peking University, 08/2020
+I am a person who is keen on using  $ \LaTeX  $ to write algebra notes.
+- [Commutative Algebra](/files/notes/CA2-2023.pdf), LaTeX, 2023
+- [Goldie's Theorem](/files/notes/GoldieThm.pdf), LaTeX, 2023
 
 
 ## Miscellaneous
