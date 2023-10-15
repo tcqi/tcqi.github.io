@@ -70,9 +70,9 @@ projects:
         - i-logos:rollupjs
       repo: Renovamen/oh-vue-icons
   Websites:
-    - name: Portfolio
-      link: https://portfolio.zxh.io
-      desc: My portfolio website simulating macOS's GUI
+    - name: G. M. Bergman's Homepage
+      link: https://math.berkeley.edu/~gbergman/
+      desc: Bergman is a master at constructing counterexamples
       icon: i-ic:baseline-laptop-mac
       tech:
         - i-logos:preact
@@ -108,36 +108,6 @@ projects:
         - i-logos:nuxt-icon
         - i-logos:ant-design
       repo: Renovamen/fishmail
-  Online Tools:
-    - name: Oh My CV!
-      link: https://ohmycv.app
-      desc: Write your curriculum vitae / resume in Markdown
-      icon: oh-my-cv
-      tech:
-        - i-logos:nuxt-icon
-        - i-logos:typescript-icon
-        - i-logos:unocss
-        - i-simple-icons:pwa
-      repo: Renovamen/oh-my-cv
-    - name: Cube Solver
-      link: https://cube.zxh.io
-      desc: A rubik's cube solver
-      icon: i-fluent:cube-24-regular
-      tech:
-        - i-logos:javascript
-        - i-vscode-icons:file-type-html
-        - i-vscode-icons:file-type-css
-      repo: Renovamen/Just-a-Cube
-    - name: Wordle Helper
-      link: https://wordle.zxh.io
-      desc: Help you solve the Wordle puzzles when your vocabulary fails you
-      icon: i-icon-park-outline:game-ps
-      tech:
-        - i-logos:vue
-        - i-logos:typescript-icon
-        - i-logos:tailwindcss-icon
-        - i-logos:vitejs
-      repo: Renovamen/wordle-helper
 ---
 
-I'm trying to find a balance between research and engineering.
+What's fun?
