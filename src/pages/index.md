@@ -20,8 +20,6 @@ I am a PhD student in the [School of Mathematical Sciences](https://math.fudan.e
 
 Previously, I received my bachelor's degree in [Mathematics and Applied Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/). 
 
-[Curriculum Vitae](/files/cv/en.pdf) / qtcmaths@126.com
-
 
 ## Education
 
