@@ -49,7 +49,7 @@ Journal of Computational and Applied Mathematics, 2021.
 
 
 ## Notes
-I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic topics. The following are some of my notes.
+I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic topics. The following are some of my notes. There might be some typos and mistakes in these notes. Please let me know if you see one. Thanks!
 - [Commutative Algebra](/files/notes/CA2-2023.pdf), LaTeX, 2023
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf), LaTeX, 2023
 - [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), LaTeX, 2023
