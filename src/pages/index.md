@@ -32,8 +32,6 @@ Previously, he received his bachelor's degree in [Mathematics and Applied Mathem
 
 ## Education
 
-|                                                                                                                       |           |
-| --------------------------------------------------------------------------------------------------------------------- | 
 | **B.S. in Mathematics and Applied Mathematics**, Shanghai University <p>Thesis: _The Restricted Singular Value Decomposition of Three Matrices and Its Applications_</p> | 2017-2021 |
 
 
