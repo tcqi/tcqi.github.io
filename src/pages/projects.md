@@ -18,6 +18,10 @@ projects:
       link: https://mathweb.ucsd.edu/~drogalsk/
       desc: Rogalski is a Professor of Mathematics at the University of California San Diego
       icon: i-solar:planet-linear
+    - name: Bernhard Keller's Homepage
+      link: https://webusers.imj-prg.fr/~bernhard.keller/indexe.html
+      desc: Bernhard Keller is a professor at the University of Paris VII
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: DaWei Zhou's Homepage
       link: https://www.c01day.com/about/
