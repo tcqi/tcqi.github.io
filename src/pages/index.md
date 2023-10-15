@@ -16,7 +16,7 @@ socials:
     link: https://www.zhihu.com/people/qi-tian-cheng-2-91
 ---
 
-I am a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). My current research interests lie primarily in noncommutative algebra, Poisson algebra and algebraic problems arising from mathematical physics. I am also interested in Rubik's Cube and badminton.
+I am a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). My current research interests lie primarily in noncommutative algebra, Poisson algebra and algebraic problems arising from mathematical physics. I am also interested in Rubik's Cube, table tennis and badminton.
 
 Previously, I received my bachelor's degree in [Mathematics and Applied Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/). 
 
