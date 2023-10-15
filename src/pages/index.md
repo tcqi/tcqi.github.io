@@ -47,18 +47,18 @@ Journal of Computational and Applied Mathematics, 2021
 
 
 
-## Experience
+## Teaching assistant
 
 |                                                                                                                                                             |           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **Machine Learning Engineer Intern**, _[Kuaishou](https://www.kuaishou.com/en)_, Beijing, China                                                             | 2021–2022 |
-| **Research Assistant**, _[Peking University](https://english.pku.edu.cn/)_, Remote (with Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm)) | 2020–2022 |
+| **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fundan University, China                                                             | 2023.9–2024.1 |
+| **ResearTeachingch Assistant**, _[Peking University](https://english.pku.edu.cn/)_, Remote (with Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm)) | 2020–2022 |
 | **Software Engineer Intern**, _China Electronics Technology Group Corporation_                                                                              | 2020–2021 |
 | **Game Engineer Intern**, _[Banana Interactive](https://banana.games/)_, Shanghai, China                                                                    | 2019–2020 |
 | **Research Assistant**, _[Peking University](https://english.pku.edu.cn/)_, Beijing, China (with Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm)) | 2018      |
 
 
-## Talks
+## Notes
 
 - [Meta / Few-shot Learning](/files/talks/2021-08-meta-learning.pdf), Kuaishou, 08/2021
 - [Continual Learning: Meta Continual Learning & Task Free Settings](/files/talks/2020-08-continual-learning.pdf), Peking University, 08/2020
