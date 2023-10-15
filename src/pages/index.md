@@ -35,7 +35,7 @@ Previously, I received my bachelor's degree in [Mathematics and Applied Mathemat
 
 Shao-Wen Yu, Zhuo-Heng He, <u>Tian-Cheng Qi</u>, and Xiang-Xiang Wang
 
-Journal of Computational and Applied Mathematics, 2021. Here is the [paper](/files/papers/The equivalence canonical form of five quaternion matrices with applications to imaging and Sylvester-type equations.pdf).
+Journal of Computational and Applied Mathematics, 2021.
 :::
 
 
