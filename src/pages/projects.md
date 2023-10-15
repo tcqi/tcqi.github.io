@@ -14,6 +14,10 @@ projects:
       link: https://math.temple.edu/~vald/
       desc: Dolgushev proved the Tsygan’s formality conjecture for an arbitrary smooth manifold
       icon: i-solar:planet-linear
+    - name: D. Rogalski's Homepage
+      link: https://mathweb.ucsd.edu/~drogalsk/
+      desc: Rogalski is a Professor of Mathematics at the University of California San Diego
+      icon: i-solar:planet-linear
 ---
 
 What's fun?
