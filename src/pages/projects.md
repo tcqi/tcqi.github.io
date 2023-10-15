@@ -23,9 +23,9 @@ projects:
       desc: Bernhard Keller is a professor at the University of Paris VII
       icon: i-solar:planet-linear
   Homepages of My Friends:
-    - name: DaWei Zhou's Homepage
+    - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
-      desc: DaWei helped me build this homepage :)
+      desc: Dawei helped me build this homepage :)
       icon: i-lucide:hammer
   Websites:
     - name: Mathematics Genealogy Project
