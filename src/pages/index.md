@@ -1,15 +1,15 @@
 ---
 layout: ../layouts/About.astro
 name: 戚天成
-subname: TianCheng Qi
+subname: Tian-Cheng Qi
 avatar: img/me.jpg
 socials:
   - icon: i-academicons:cv
     link: /files/cv/en.pdf
   - icon: "i-ion:mail-outline"
-    link: "mailto:renovamenzxh@gmail.com"
+    link: "mailto:qtcmaths@126.com"
   - icon: i-eva:github-outline
-    link: https://github.com/Renovamen
+    link: https://github.com/tcqi
   - icon: i-radix-icons:linkedin-logo
     link: https://www.linkedin.com/in/xiaohan-zou
   - icon: i-academicons:google-scholar
@@ -23,7 +23,7 @@ socials:
     name: Portfolio
 ---
 
-Xiaohan is a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/) advised by Prof. [Huijuan Xu](https://visionlanguagelab.github.io/). Her current research interests lie primarily in understanding and improving continuity, generalizability, efficiency and other key properties of machine learning. She is also interested in vision-language and video models. 
+Tian-Cheng is a PhD student at the [Mathematics](https://math.fudan.edu.cn/) department of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). His current research interests lie primarily in algebraic problems arising from mathematical physics. He is also interested in Rubik's Cube and badminton.
 
 Previously, she received her master's degree in [Computer Science](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/) and bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/). She has also interned in Kuaishou and PKU.
 
