@@ -59,7 +59,7 @@ Journal of Computational and Applied Mathematics, 2021
 
 
 ## Notes
-I am a person who is keen on using  $ \LaTeX  $ to write algebra notes.
+I am a person who is keen on using  $ \LaTeX $ to write algebra notes.
 - [Commutative Algebra](/files/notes/CA2-2023.pdf), LaTeX, 2023
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf), LaTeX, 2023
 
