@@ -23,9 +23,9 @@ socials:
     name: Portfolio
 ---
 
-Tian-Cheng is a PhD student at the [Mathematics](https://math.fudan.edu.cn/) department of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). His current research interests lie primarily in algebraic problems arising from mathematical physics. He is also interested in Rubik's Cube and badminton.
+Tian-Cheng is a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) department of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). His current research interests lie primarily in algebraic problems arising from mathematical physics. He is also interested in Rubik's Cube and badminton.
 
-Previously, he received his bachelor's degree in [Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/). 
+Previously, he received his bachelor's degree in [Mathematics and Applied Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/). 
 
 [Curriculum Vitae](/files/cv/en.pdf) / qtcmaths@126.com
 
@@ -33,9 +33,8 @@ Previously, he received his bachelor's degree in [Mathematics](http://math.shu.e
 ## Education
 
 |                                                                                                                       |           |
-| --------------------------------------------------------------------------------------------------------------------- | --------- |
-| **M.S. in Computer Science**, Boston University                                                                       | 2021-2023 |
-| **B.Eng. in Software Engineering**, Tongji University <p>Thesis: _Food Image Aesthetic Assessment and Captioning_</p> | 2016-2020 |
+| --------------------------------------------------------------------------------------------------------------------- | 
+| **B.S. in Mathematics and Applied Mathematics**, Shanghai University <p>Thesis: _The Restricted Singular Value Decomposition of Three Matrices and Its Applications_</p> | 2017-2021 |
 
 
 ## Publications <span text-base>(also see <a href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)</span>
