@@ -44,13 +44,15 @@ Journal of Computational and Applied Mathematics, 2021.
 
 |                                        |           |
 |--------------------------------------- | --------- |
-| **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fundan University, China                                                             | 2023.9–2024.1 |
+| **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fundan University, China  | 2023.9–2024.1 |
 
 
 
 ## Notes
 I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic topics. The following are some of my notes. There might be some typos and mistakes in these notes. Please let me know if you see one. Thanks!
-- [Commutative Algebra](/files/notes/CA2-2023.pdf), edited via $ \LaTeX $, 2023
+|                                        |           |
+|--------------------------------------- | --------- |
+|[Commutative Algebra](/files/notes/CA2-2023.pdf), edited via $ \LaTeX $ | 2023 |
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf), edited via $ \LaTeX $, 2023
 - [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), edited via $ \LaTeX $, 2023
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf), edited via $ \LaTeX $, 2023
@@ -63,3 +65,4 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Dihedral Group](/files/notes/Dihedralgroup.pdf), edited via $ \LaTeX $, 2023
 - [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), edited via $ \LaTeX $, 2023
 
+---
