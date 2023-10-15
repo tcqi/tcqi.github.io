@@ -69,7 +69,7 @@ projects:
         - i-logos:typescript-icon
         - i-logos:rollupjs
       repo: Renovamen/oh-vue-icons
-  Websites:
+  Homepages of Some Algebraists:
     - name: G. M. Bergman's Homepage
       link: https://math.berkeley.edu/~gbergman/
       desc: Bergman is a master at constructing counterexamples
