@@ -73,41 +73,13 @@ projects:
     - name: G. M. Bergman's Homepage
       link: https://math.berkeley.edu/~gbergman/
       desc: Bergman is a master at constructing counterexamples
-      icon: i-ic:baseline-laptop-mac
+      icon: i-solar:planet-linear
       tech:
         - i-logos:preact
         - i-logos:typescript-icon
         - i-logos:unocss
         - i-logos:vitejs
       repo: Renovamen/playground-macos
-    - name: Interesting Resume
-      link: https://resume.zxh.io
-      desc: Hey adventurer! Why not help me with retrieving my resume fragments back!
-      icon: i-et:compass
-      tech:
-        - i-logos:vue
-        - i-logos:typescript-icon
-        - i-logos:unocss
-        - i-logos:vitejs
-      repo: Renovamen/midgard
-    - name: zxh.io
-      link: https://zxh.io
-      desc: My personal website
-      icon: i-solar:planet-linear
-      tech:
-        - i-logos:astro-icon
-        - i-logos:solidjs-icon
-        - i-logos:typescript-icon
-        - i-logos:unocss
-      repo: Renovamen/renovamen.github.io
-    - name: Fishmail
-      link: https://fishmail.vercel.app
-      desc: 装作在 Gmail 上查邮件的样子看知乎摸鱼
-      icon: i-game-icons:fish-escape
-      tech:
-        - i-logos:nuxt-icon
-        - i-logos:ant-design
-      repo: Renovamen/fishmail
 ---
 
 What's fun?
