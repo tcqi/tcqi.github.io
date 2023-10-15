@@ -35,51 +35,16 @@ Previously, he received his bachelor's degree in [Mathematics and Applied Mathem
 | **B.S. in Mathematics and Applied Mathematics**, Shanghai University <p>Thesis: _The Restricted Singular Value Decomposition of Three Matrices and Its Applications_</p> | 2017-2021 |
 
 
-## Publications <span text-base>(also see <a href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)</span>
-
-:::paper[/img/about/tokenflow-1.png /img/about/tokenflow-2.png]
-**TokenFlow: Rethinking Fine-grained Cross-modal Alignment in Vision-Language Retrieval**
-
-<u>Xiaohan Zou</u>, Changqiao Wu, Lele Cheng, and Zhongyuan Wang
-
-Preprint, 2022
-
-[paper](/files/papers/CA2-2023.pdf)
-:::
+## Publications <span text-base>(also see <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=AJw6n3EAAAAJ&gmla=AJ1KiT37cxK4RNd13wPL7wbB_yWehQGd2TRAP9HiTwFyGiaGOuyl-K3ns8Vbdry_lkaPNhWWMfgT-KsCL47oviL4RAcQQ6xcShsvSIxtVfpShkVf-Mn0QEc" target="_blank" rel="noopener noreferrer">Google Scholar</a>)</span>
 
 :::paper
-**Efficient Meta-Learning for Continual Learning with Taylor Expansion Approximation**
+**The equivalence canonical form of five quaternion matrices with applications to imaging and Sylvester-type equations**
 
-<u>Xiaohan Zou</u>, and Tong Lin
+Shao-Wen Yu, Zhuo-Heng He, <u>Tian-Cheng Qi</u>, and Xiang-Xiang Wang
 
-International Joint Conference on Neural Networks (IJCNN), 2022
-
-**Oral Presentation**
-
-[paper](https://arxiv.org/abs/2210.00713) / [slide](/files/papers/ijcnn2022/slide.pdf)
+Journal of Computational and Applied Mathematics, 2021
 :::
 
-:::paper[/img/about/ictai2020.png]
-**To be an Artist: Automatic Generation on Food Image Aesthetic Captioning**
-
-<u>Xiaohan Zou</u>, Cheng Lin, Yinjia Zhang, and Qinpei Zhao
-
-International Conference on Tools with Artificial Intelligence (ICTAI), 2020
-
-**Oral Presentation**
-
-[paper](https://ieeexplore.ieee.org/document/9288208) / [code](https://github.com/Renovamen/Food-IAC) / [slide](/files/papers/ictai2020/slide.pdf)
-:::
-
-:::paper
-**A Survey on Application of Knowledge Graph**
-
-<u>Xiaohan Zou</u>
-
-International Conference on Control Engineering and Artificial Intelligence (CCEAI), 2020
-
-[paper](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016/pdf)
-:::
 
 
 ## Experience
