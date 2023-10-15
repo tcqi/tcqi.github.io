@@ -10,8 +10,8 @@ socials:
     link: https://github.com/tcqi
   - icon: i-radix-icons:linkedin-logo
     link: https://www.linkedin.com/
-  # - icon: i-academicons:google-scholar
-  #   link: https://scholar.google.com/citations?user=RuW6xgMAAAAJ
+  - icon: i-academicons:google-scholar
+    link: https://scholar.google.com/
   - icon: i-ant-design:zhihu-outlined
     link: https://www.zhihu.com/people/qi-tian-cheng-2-91
 ---
@@ -53,9 +53,9 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 |                                        |           |
 |--------------------------------------- | --------- |
 |[Commutative Algebra](/files/notes/CA2-2023.pdf), edited via $ \LaTeX $ | 2023 |
-- [Goldie's Theorem](/files/notes/GoldieThm.pdf), edited via $ \LaTeX $, 2023
-- [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), edited via $ \LaTeX $, 2023
-- [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf), edited via $ \LaTeX $, 2023
+|[Goldie's Theorem](/files/notes/GoldieThm.pdf), edited via $ \LaTeX $ | 2023 |
+|[Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), edited via $ \LaTeX $|2023|
+|[Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf), edited via $ \LaTeX $| 2023|
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf), edited via $ \LaTeX $, 2023
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf), edited via $ \LaTeX $, 2023
 - [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf), edited via $ \LaTeX $, 2023
