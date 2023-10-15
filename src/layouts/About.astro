@@ -3,6 +3,7 @@ import { SITE } from "@config";
 import type { SocialItem } from "@types";
 import Links from "@components/Links.astro";
 import Layout from "./Layout.astro";
+import Giscus from "@components/Giscus";
 
 export interface Props {
   frontmatter: {
@@ -45,6 +46,10 @@ const { name, subname, avatar, socials } = Astro.props.frontmatter;
   </div>
 
   <slot />
+
+  <div mt-auto>
+    <Giscus client:visible />
+  </div>
 </Layout>
 
 <script>
