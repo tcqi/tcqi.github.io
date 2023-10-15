@@ -23,7 +23,7 @@ socials:
     name: Portfolio
 ---
 
-Tian-Cheng is a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). His current research interests lie primarily in algebraic problems arising from mathematical physics. He is also interested in Rubik's Cube and badminton.
+Tian-Cheng is a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). His current research interests lie primarily in noncommutative algebra, Poisson algebra and algebraic problems arising from mathematical physics. He is also interested in Rubik's Cube and badminton.
 
 Previously, he received his bachelor's degree in [Mathematics and Applied Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/). 
 
