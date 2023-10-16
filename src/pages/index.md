@@ -72,6 +72,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 
 **Category Theory**
 - [Quotient Category](/files/notes/quotientcat.pdf), edited via $ \LaTeX $, 2023
+
 **Representation Theory**
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf), edited via $ \LaTeX $, 2023
 - [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf), edited via $ \LaTeX $, 2023
