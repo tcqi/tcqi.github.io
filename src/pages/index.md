@@ -76,6 +76,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 ---
 **Category Theory**
 - [Quotient Category](/files/notes/quotientcat.pdf), edited via $ \LaTeX $, 2023
+- [Adjoint Functor](/files/notes/adjointfun.pdf), edited via $ \LaTeX $, 2023
 ---
 **Representation Theory**
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf), edited via $ \LaTeX $, 2023
