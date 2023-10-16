@@ -69,10 +69,10 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf), edited via $ \LaTeX $, 2023
 - [Injective Hull of a Module](/files/notes/injhullofmodule.pdf), edited via $ \LaTeX $, 2023
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf), edited via $ \LaTeX $, 2023
-
+---
 **Category Theory**
 - [Quotient Category](/files/notes/quotientcat.pdf), edited via $ \LaTeX $, 2023
-
+---
 **Representation Theory**
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf), edited via $ \LaTeX $, 2023
 - [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf), edited via $ \LaTeX $, 2023
