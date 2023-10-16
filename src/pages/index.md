@@ -61,6 +61,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf), edited via $ \LaTeX $, 2023
 - [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), edited via $ \LaTeX $, 2023
 - [Dixmier-Moeglin Equivalence](/files/notes/introtoDME.pdf), edited via $ \LaTeX $, 2023
+- [Graded Algebra](/files/notes/gradedalg.pdf), edited via $ \LaTeX $, 2023
 ---
 **Homological Algebra**
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf), edited via $ \LaTeX $, 2023
