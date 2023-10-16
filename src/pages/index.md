@@ -60,6 +60,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf), edited via $ \LaTeX $, 2023
 - [Quotient Category](/files/notes/quotientcat.pdf), edited via $ \LaTeX $, 2023
 - [Injective Hull of a Module](/files/notes/injhullofmodule.pdf), edited via $ \LaTeX $, 2023
+- [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf), edited via $ \LaTeX $, 2023
 - [Dihedral Group](/files/notes/Dihedralgroup.pdf), edited via $ \LaTeX $, 2023
 - [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), edited via $ \LaTeX $, 2023
 
