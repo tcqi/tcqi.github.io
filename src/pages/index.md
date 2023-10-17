@@ -75,6 +75,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), edited via $ \LaTeX $, 2023
 - [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), edited via $ \LaTeX $, 2023
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), edited via $ \LaTeX $, 2023
 ---
 **Category Theory**
 - [Quotient Category](/files/notes/quotientcat.pdf) (Chinese), edited via $ \LaTeX $, 2023
