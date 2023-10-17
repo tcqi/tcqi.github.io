@@ -40,6 +40,14 @@ projects:
       link: https://arxiv.org/
       desc: arXiv is an open-access repository of electronic preprints and postprints approved for posting after moderation, but not peer review
       icon: i-heroicons-solid:fire
+    - name: American Mathematical Society MathSciNet
+      link: https://mathscinet.ams.org/mathscinet/2006/mathscinet?version=2
+      desc: MathSciNet is a searchable online bibliographic database created by the American Mathematical Society in 1996
+      icon: i-heroicons-solid:fire
+    - name: Mathematics Stack Exchange
+      link: https://math.stackexchange.com/
+      desc: Mathematics Stack Exchange is a mathematics question-and-answer website
+      icon: i-heroicons-solid:fire
 ---
 
 What's fun?
