@@ -85,3 +85,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf) (Chinese), edited via $ \LaTeX $, 2023
 
 ---
+**Poisson Algebra**
+- [Polynomial Poisson Algebra](/files/notes/oplynoPoissnote.pdf) (Chinese), edited via $ \LaTeX $, 2023
+
+---
