@@ -68,6 +68,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 ---
 **Group Theory**
 - [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Grothendieck Group](/files/notes/Grothendieckgroup.pdf) (Chinese), edited via $ \LaTeX $, 2023
 ---
 **Module Theory**
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), edited via $ \LaTeX $, 2023
