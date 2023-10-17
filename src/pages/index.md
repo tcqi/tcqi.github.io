@@ -44,7 +44,7 @@ Journal of Computational and Applied Mathematics, 2021.
 
 |                                        |           |
 |--------------------------------------- | --------- |
-| **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fundan University, China  | 2023.9–2024.1 |
+| **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fudan University, China  | 2023.9–2024.1 |
 
 
 ## Notes
