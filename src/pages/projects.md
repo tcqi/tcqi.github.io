@@ -40,7 +40,7 @@ projects:
       link: https://arxiv.org/
       desc: arXiv is an open-access repository of electronic preprints and postprints approved for posting after moderation, but not peer review
       icon: i-heroicons-solid:fire
-    - name: American Mathematical Society MathSciNet
+    - name: AMS MathSciNet
       link: https://mathscinet.ams.org/mathscinet/2006/mathscinet?version=2
       desc: MathSciNet is a searchable online bibliographic database
       icon: i-heroicons-solid:fire
