@@ -42,7 +42,7 @@ projects:
       icon: i-heroicons-solid:fire
     - name: American Mathematical Society MathSciNet
       link: https://mathscinet.ams.org/mathscinet/2006/mathscinet?version=2
-      desc: MathSciNet is a searchable online bibliographic database created by the American Mathematical Society in 1996
+      desc: MathSciNet is a searchable online bibliographic database
       icon: i-heroicons-solid:fire
     - name: Mathematics Stack Exchange
       link: https://math.stackexchange.com/
