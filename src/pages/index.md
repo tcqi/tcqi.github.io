@@ -36,7 +36,7 @@ Previously, I received my bachelor's degree in [Mathematics and Applied Mathemat
 Shao-Wen Yu, Zhuo-Heng He, <u>Tian-Cheng Qi</u>, and Xiang-Xiang Wang
 
 Journal of Computational and Applied Mathematics, 2021.
-[paper](/files/papers/equviformfivequate1.pdf)
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S0377042721001138)
 :::
 
 
