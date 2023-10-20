@@ -80,9 +80,9 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), last revised March. 2023.
 ---
 **Category Theory**
-- [Quotient Category](/files/notes/quotientcat.pdf) (Chinese), edited via $ \LaTeX $, 2023
-- [Adjoint Functor](/files/notes/adjointfun.pdf) (Chinese), edited via $ \LaTeX $, 2023
-- [Functor Category](/files/notes/funcateandYon.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Quotient Category](/files/notes/quotientcat.pdf) (Chinese), last revised Aug. 2023.
+- [Adjoint Functor](/files/notes/adjointfun.pdf) (Chinese), last revised Aug. 2023.
+- [Functor Category](/files/notes/funcateandYon.pdf) (Chinese), last revised Aug. 2023.
 ---
 **Representation Theory**
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf) (Chinese), edited via $ \LaTeX $, 2023
