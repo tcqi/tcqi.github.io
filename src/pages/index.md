@@ -75,9 +75,9 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 **Module Theory**
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Oct. 2023.
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), last revised July. 2023.
-- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), edited via $ \LaTeX $, 2023
-- [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), edited via $ \LaTeX $, 2023
-- [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised July. 2023.
+- [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), last revised Oct. 2023.
+- [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), last revised March. 2023.
 ---
 **Category Theory**
 - [Quotient Category](/files/notes/quotientcat.pdf) (Chinese), edited via $ \LaTeX $, 2023
