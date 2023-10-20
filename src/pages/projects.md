@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Projects.astro
 projects:
-  Homepages of Some Algebraists:
+  Homepages of Some Mathematicians:
     - name: G. M. Bergman's Homepage
       link: https://math.berkeley.edu/~gbergman/
       desc: Bergman is a master at constructing counterexamples
@@ -50,7 +50,7 @@ projects:
       icon: i-heroicons-solid:fire
     - name: Cambridge Notes
       link: https://dec41.user.srcf.net/notes/
-      desc: Dexter Chua typed up his lecture notes for the courses he attended when he was in Cambridge.
+      desc: Dexter Chua typed up his lecture notes for the courses he attended when he was in Cambridge
       icon: i-heroicons-solid:fire
 ---
 
