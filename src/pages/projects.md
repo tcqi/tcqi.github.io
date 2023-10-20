@@ -48,6 +48,10 @@ projects:
       link: https://math.stackexchange.com/
       desc: Mathematics Stack Exchange is a mathematics question-and-answer website
       icon: i-heroicons-solid:fire
+    - name: Cambridge Notes
+      link: https://dec41.user.srcf.net/notes/
+      desc: Dexter Chua typed up his lecture notes for the courses he attended when he was in Cambridge.
+      icon: i-heroicons-solid:fire
 ---
 
 What's fun?
