@@ -85,11 +85,11 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Functor Category](/files/notes/funcateandYon.pdf) (Chinese), last revised Aug. 2023.
 ---
 **Representation Theory**
-- [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf) (Chinese), edited via $ \LaTeX $, 2023
-- [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf) (Chinese), last revised Aug. 2023.
+- [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf) (Chinese),  last revised Oct. 2023.
 
 ---
 **Poisson Algebra**
-- [Polynomial Poisson Algebra](/files/notes/oplynoPoissnote.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Polynomial Poisson Algebra](/files/notes/oplynoPoissnote.pdf) (Chinese), edited via $ \LaTeX $, last revised Oct. 2023.
 
 ---
