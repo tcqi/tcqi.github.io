@@ -60,10 +60,10 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Sept. 2023.
-- [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf) (Chinese), last revised Aug. 2023
-- [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), edited via $ \LaTeX $, 2023
-- [Dixmier-Moeglin Equivalence](/files/notes/introtoDME.pdf) (Chinese), edited via $ \LaTeX $, 2023
-- [Graded Algebra](/files/notes/gradedalg.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf) (Chinese), last revised Aug. 2023.
+- [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), last revised Oct. 2023.
+- [Dixmier-Moeglin Equivalence](/files/notes/introtoDME.pdf) (Chinese), last revised Oct. 2023.
+- [Graded Algebra](/files/notes/gradedalg.pdf) (Chinese), last revised Oct. 2023.
 ---
 **Homological Algebra**
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), edited via $ \LaTeX $, 2023
