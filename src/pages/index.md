@@ -66,11 +66,11 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 - [Graded Algebra](/files/notes/gradedalg.pdf) (Chinese), last revised Oct. 2023.
 ---
 **Homological Algebra**
-- [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Sept. 2023.
 ---
 **Group Theory**
-- [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), edited via $ \LaTeX $, 2023
-- [Grothendieck Group](/files/notes/Grothendieckgroup.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), last revised Sept. 2023.
+- [Grothendieck Group](/files/notes/Grothendieckgroup.pdf) (Chinese), last revised July. 2023.
 ---
 **Module Theory**
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), edited via $ \LaTeX $, 2023
