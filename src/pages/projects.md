@@ -30,6 +30,10 @@ projects:
       link:  https://wuxiaolei.org/
       desc: Xiaolei Wu once taught me the course "Homological algebra and geometric applications"
       icon: i-solar:planet-linear
+    - name: Sarah Witherspoon's Homepage
+      link:  https://people.tamu.edu/~sjw//
+      desc: Sarah Witherspoon is a professor at the Texas A&M University
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
