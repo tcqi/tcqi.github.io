@@ -28,8 +28,8 @@ projects:
       icon: i-solar:planet-linear
     - name: Xiaolei Wu's Homepage
       link: https://wuxiaolei.org/
-      desc: Xiaolei Wu once taught me the course "Homological algebra and geometric
-applications"
+      desc: Xiaolei Wu once taught me the course "Homological algebra and geometric 
+      applications"
       icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
