@@ -90,6 +90,6 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 
 ---
 **Poisson Algebra**
-- [Polynomial Poisson Algebra](/files/notes/oplynoPoissnote.pdf) (Chinese), edited via $ \LaTeX $, last revised Oct. 2023.
+- [Polynomial Poisson Algebra](/files/notes/oplynoPoissnote.pdf) (Chinese), last revised Oct. 2023.
 
 ---
