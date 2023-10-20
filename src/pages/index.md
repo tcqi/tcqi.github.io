@@ -56,7 +56,7 @@ I am a person who is keen on using  $ \LaTeX $ to write some notes on algebraic 
 ---
 **Commutative Algebra**
 - [Commutative Algebra](/files/notes/CA2-2023.pdf) (Chinese), last revised Oct. 2023.
-- [Bass Number](/files/notes/Bassnumb.pdf) (Chinese), edited via $ \LaTeX $, 2023
+- [Bass Number](/files/notes/Bassnumb.pdf) (Chinese),  last revised April. 2023.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), edited via $ \LaTeX $, 2023
