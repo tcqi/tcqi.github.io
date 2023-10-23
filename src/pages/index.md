@@ -69,7 +69,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Graded Algebra](/files/notes/gradedalg.pdf) (Chinese), last revised Oct. 2023.
 ---
 **Homological Algebra**
-- [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Sept. 2023.
+- [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Oct. 2023.
 - [Van den Bergh Duality in Hochschild (Co)homology](/files/notes/vdbdualityHochschild.pdf) (Chinese), last revised Sept. 2023.
 ---
 **Group Theory**
