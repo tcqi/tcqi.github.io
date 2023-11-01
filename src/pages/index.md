@@ -96,7 +96,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf) (Chinese),  last revised Oct. 2023.
 
 ---
-**Poisson Algebra**
+**Nonassociative Algebra**
 - [Polynomial Poisson Algebra](/files/notes/oplynoPoissnote.pdf) (Chinese), last revised Oct. 2023.
 
 ---
