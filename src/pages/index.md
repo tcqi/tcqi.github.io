@@ -79,6 +79,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Grothendieck Group](/files/notes/Grothendieckgroup.pdf) (Chinese), last revised July. 2023.
 - [Simplicity of $ A_{n} $ for $ n   \geq 5 $ ](/files/notes/Ansimplegroupngeq5.pdf) (Chinese), last revised Oct. 2023.
 - [Sylow's Theorem](/files/notes/Sylowthm.pdf) (Chinese), last revised Oct. 2023.
+- [Free Product of Groups](/files/notes/freeprodgrps.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Module Theory**
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Oct. 2023.
