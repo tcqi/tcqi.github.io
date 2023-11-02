@@ -60,7 +60,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Commutative Algebra](/files/notes/CA2-2023.pdf) (Chinese), last revised Oct. 2023.
 - [Bass Number](/files/notes/Bassnumb.pdf) (Chinese), last revised April. 2023.
 - [Homological Smoothness of Commutative Algebras](/files/notes/homologismothca.pdf) (Chinese), last revised Oct. 2023.
-- [Hochschild-Kostant-Rosenberg Theorem](/files/notes/hkrthm.pdf) (Chinese), last revised Oct. 2023.
+- [Hochschild-Kostant-Rosenberg Theorem](/files/notes/hkrthm.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Sept. 2023.
@@ -72,6 +72,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 **Homological Algebra**
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Oct. 2023.
 - [Van den Bergh Duality in Hochschild (Co)homology](/files/notes/vdbdualityHochschild.pdf) (Chinese), last revised Sept. 2023.
+- [Formal Deformation of Associative Algebra](/files/notes/deformassalg.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Group Theory**
 - [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), last revised Sept. 2023.
