@@ -72,7 +72,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 **Homological Algebra**
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Oct. 2023.
 - [Van den Bergh Duality in Hochschild (Co)homology](/files/notes/vdbdualityHochschild.pdf) (Chinese), last revised Sept. 2023.
-- [Formal Deformation of Associative Algebra](/files/notes/deformassalg.pdf) (Chinese), last revised Nov. 2023.
+- [Formal Deformation of Associative Algebras](/files/notes/deformassalg.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Group Theory**
 - [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), last revised Sept. 2023.
