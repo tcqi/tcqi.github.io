@@ -57,7 +57,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 
 ---
 **Commutative Algebra**
-- [Commutative Algebra](/files/notes/CA2-2023.pdf) (Chinese), last revised Oct. 2023.
+- [Commutative Algebra](/files/notes/CA2-2023.pdf) (Chinese), last revised Nov. 2023.
 - [Bass Number](/files/notes/Bassnumb.pdf) (Chinese), last revised April. 2023.
 - [Homological Smoothness of Commutative Algebras](/files/notes/homologismothca.pdf) (Chinese), last revised Oct. 2023.
 - [Hochschild-Kostant-Rosenberg Theorem](/files/notes/hkrthm.pdf) (Chinese), last revised Nov. 2023.
