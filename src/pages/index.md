@@ -83,7 +83,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Pushout in the Category of Groups](/files/notes/pushoutingrpcat.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Module Theory**
-- [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Oct. 2023.
+- [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Nov. 2023.
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), last revised July. 2023.
 - [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised July. 2023.
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), last revised Oct. 2023.
