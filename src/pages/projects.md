@@ -36,7 +36,11 @@ projects:
       icon: i-solar:planet-linear
     - name: Iain Gordon's Homepage
       link:  https://www.maths.ed.ac.uk/~igordon/
-      desc: Iain Gordon is a professor of Mathematics and Head of School of the School of Mathematics at the University of Edinburgh.
+      desc: Iain Gordon is a professor of Mathematics and Head of School of the School of Mathematics at the University of Edinburgh
+      icon: i-solar:planet-linear
+    - name: Pavel Etingof's Homepage
+      link:  https://math.mit.edu/~etingof/
+      desc: Pavel Etingof is a professor at the MIT Mathematics Department
       icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
