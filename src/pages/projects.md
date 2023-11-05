@@ -60,6 +60,10 @@ projects:
       link: https://dec41.user.srcf.net/notes/
       desc: Dexter Chua typed up his lecture notes for the courses he attended when he was in Cambridge
       icon: i-heroicons-solid:fire
+    - name: Free Books by Knapp
+      link: https://www.math.stonybrook.edu/~aknapp/download.html
+      desc: From this page, anyone can download free PDF files of certain editions of the six most recent books by Anthony W. Knapp
+      icon: i-heroicons-solid:fire
 ---
 
 What's fun?
