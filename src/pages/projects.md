@@ -34,6 +34,10 @@ projects:
       link:  https://people.tamu.edu/~sjw//
       desc: Sarah Witherspoon is a professor at the Texas A&M University
       icon: i-solar:planet-linear
+    - name: Iain Gordon's Homepage
+      link:  https://www.maths.ed.ac.uk/~igordon/
+      desc: Iain Gordon is a professor of Mathematics and Head of School of the School of Mathematics at the University of Edinburgh.
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
