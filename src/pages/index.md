@@ -64,6 +64,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Quotient Variety of an Affine Variety](/files/notes/quotvaire.pdf) (Chinese), last revised Nov. 2023.
 - [Discrete Valuation Rings and Smoothness of Affine Curves](/files/notes/smoothnessaffcurve.pdf) (Chinese), last revised Nov. 2023.
 - [Cohen–Seidenberg Theory](/files/notes/Cohen–Seidenberg.pdf) (Chinese), last revised Nov. 2023.
+- [Dedekind Domain](/files/notes/Dedekinddomain.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Sept. 2023.
