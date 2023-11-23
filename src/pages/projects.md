@@ -46,6 +46,10 @@ projects:
       link:  https://sites.google.com/view/xingting
       desc: Xingting Wang is an assistant professor at Louisiana State University
       icon: i-solar:planet-linear
+    - name: Gongxiang Liu's Homepage
+      link:  http://maths.nju.edu.cn/~gxliu/
+      desc: Gongxiang Liu is a professor at Nanjing University
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
