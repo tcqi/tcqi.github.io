@@ -32,7 +32,7 @@ projects:
       icon: i-solar:planet-linear
     - name: Sarah Witherspoon's Homepage
       link:  https://people.tamu.edu/~sjw//
-      desc: Sarah Witherspoon is a professor at the Texas A&M University
+      desc: Sarah Witherspoon is a professor at Texas A&M University
       icon: i-solar:planet-linear
     - name: Iain Gordon's Homepage
       link:  https://www.maths.ed.ac.uk/~igordon/
@@ -41,6 +41,10 @@ projects:
     - name: Pavel Etingof's Homepage
       link:  https://math.mit.edu/~etingof/
       desc: Pavel Etingof is a professor at the MIT Mathematics Department
+      icon: i-solar:planet-linear
+    - name: Xingting Wang's Homepage
+      link:  https://sites.google.com/view/xingting
+      desc: Xingting Wang is an assistant professor at Louisiana State University
       icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
