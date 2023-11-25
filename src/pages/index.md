@@ -106,7 +106,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 ---
 **Representation Theory**
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf) (Chinese), last revised Aug. 2023.
-- [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf) (Chinese),  last revised Oct. 2023.
+- [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp.pdf) (Chinese),  last revised Nov. 2023.
 
 ---
 **Nonassociative Algebra**
