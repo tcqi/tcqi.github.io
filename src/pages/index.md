@@ -59,7 +59,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 ---
 **Commutative Algebra**
 - [Commutative Algebra](/files/notes/CA2-2023.pdf) (Chinese), last revised Nov. 2023.
-- [Bass Number](/files/notes/Bassnumb.pdf) (Chinese), last revised April. 2023.
+- [Bass Number](/files/notes/Bassnumb.pdf) (Chinese), last revised Apr. 2023.
 - [Homological Smoothness of Commutative Algebras](/files/notes/homologismothca.pdf) (Chinese), last revised Oct. 2023.
 - [Hochschild-Kostant-Rosenberg Theorem](/files/notes/hkrthm.pdf) (Chinese), last revised Nov. 2023.
 - [Quotient Variety of Affine Varieties](/files/notes/quotvaire.pdf) (Chinese), last revised Nov. 2023.
@@ -71,22 +71,22 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Product Varieties and Affine Algebraic Groups](/files/notes/affvprodalggrpHopf.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Noncommutative Algebra**
-- [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Sept. 2023.
+- [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Sep. 2023.
 - [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf) (Chinese), last revised Aug. 2023.
 - [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), last revised Oct. 2023.
 - [Dixmier-Moeglin Equivalence](/files/notes/introtoDME.pdf) (Chinese), last revised Oct. 2023.
 - [Graded Algebra](/files/notes/gradedalg.pdf) (Chinese), last revised Oct. 2023.
-- [An Example of a Centrally Infinite Division Ring](/files/notes/centerinfidiringeg.pdf) (Chinese), last revised June. 2023.
+- [An Example of a Centrally Infinite Division Ring](/files/notes/centerinfidiringeg.pdf) (Chinese), last revised Jun. 2023.
 - [Endomorphism Ring of an Infinitely Countable Dimensional Vector Space](/files/notes/EndofVwithcountinfd.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Homological Algebra**
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Oct. 2023.
-- [Van den Bergh Duality in Hochschild (Co)homology](/files/notes/vdbdualityHochschild.pdf) (Chinese), last revised Sept. 2023.
+- [Van den Bergh Duality in Hochschild (Co)homology](/files/notes/vdbdualityHochschild.pdf) (Chinese), last revised Sep. 2023.
 - [Formal Deformation of Associative Algebras](/files/notes/deformassalg.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Group Theory**
-- [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), last revised Sept. 2023.
-- [Grothendieck Group](/files/notes/Grothendieckgroup.pdf) (Chinese), last revised July. 2023.
+- [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), last revised Sep. 2023.
+- [Grothendieck Group](/files/notes/Grothendieckgroup.pdf) (Chinese), last revised Jul. 2023.
 - [Simplicity of $ A_{n} $ for $ n   \geq 5 $ ](/files/notes/Ansimplegroupngeq5.pdf) (Chinese), last revised Oct. 2023.
 - [Sylow's Theorem](/files/notes/Sylowthm.pdf) (Chinese), last revised Oct. 2023.
 - [Free Product of Groups](/files/notes/freeprodgrps.pdf) (Chinese), last revised Nov. 2023.
@@ -94,10 +94,10 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 ---
 **Module Theory**
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Nov. 2023.
-- [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), last revised July. 2023.
-- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised July. 2023.
+- [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), last revised Jul. 2023.
+- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised Jul. 2023.
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), last revised Oct. 2023.
-- [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), last revised March. 2023.
+- [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), last revised Mar. 2023.
 ---
 **Category Theory**
 - [Quotient Category](/files/notes/quotientcat.pdf) (Chinese), last revised Aug. 2023.
