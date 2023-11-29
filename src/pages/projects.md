@@ -50,6 +50,10 @@ projects:
       link:  http://maths.nju.edu.cn/~gxliu/
       desc: Gongxiang Liu is a professor at Nanjing University
       icon: i-solar:planet-linear
+    - name: Chelsea Walton's Homepage
+      link:  https://math.rice.edu/~notlaw/index.html
+      desc: Chelsea Walton is a Full Professor in the Mathematics Department at Rice University
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
