@@ -6,7 +6,7 @@ projects:
       link: https://math.berkeley.edu/~gbergman/
       desc: Bergman is a master at constructing counterexamples
       icon: i-solar:planet-linear
-    - name: Zhang James J's Homepage
+    - name: Zhang James J.'s Homepage
       link: https://sites.math.washington.edu//~zhang/index.html
       desc: Zhang Jian is my idol
       icon: i-solar:planet-linear
