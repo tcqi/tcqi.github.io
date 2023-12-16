@@ -71,6 +71,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Sheaf of Regular Functions on Affine Varieties](/files/notes/sheafregfun.pdf) (Chinese), last revised Dec. 2023.
 - [Product Varieties and Affine Algebraic Groups](/files/notes/affvprodalggrpHopf.pdf) (Chinese), last revised Nov. 2023.
 - [Affine Poisson Varieties](/files/notes/affinePoissonvari.pdf) (Chinese), last revised Dec. 2023.
+- [Basic Notions in the Ideal Theory of Poisson Algebras](/files/notes/Poissonidealth.pdf) (Chinese), last revised Dec. 2023.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Dec. 2023.
