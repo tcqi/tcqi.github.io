@@ -82,6 +82,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [An Example of a Centrally Infinite Division Ring](/files/notes/centerinfidiringeg.pdf) (Chinese), last revised Jun. 2023.
 - [Endomorphism Ring of an $\aleph_{0}$-Dimensional Vector Space](/files/notes/EndofVwithcountinfd.pdf) (Chinese), last revised Nov. 2023.
 - [Differential Core of Prime Ideals](/files/notes/Differentialcoreofprimes.pdf), last revised Aug. 2023.
+- [Trivial Extension of Rings](/files/notes/trivialexrings.pdf), last revised Dec. 2023.
 ---
 **Homological Algebra**
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Oct. 2023.
