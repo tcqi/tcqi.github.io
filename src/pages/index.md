@@ -88,7 +88,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Oct. 2023.
 - [Van den Bergh Duality in Hochschild (Co)homology](/files/notes/vdbdualityHochschild.pdf) (Chinese), last revised Sep. 2023.
 - [Formal Deformation of Associative Algebras](/files/notes/deformassalg.pdf) (Chinese), last revised Nov. 2023.
-- [Tor Functor Commutes With Direct Limits](/files/notes/Torcommdireclim.pdf) (Chinese), last revised Nov. 2023.
+- [Tor Functor Commutes with Direct Limits](/files/notes/Torcommdireclim.pdf) (Chinese), last revised Nov. 2023.
 ---
 **Group Theory**
 - [Dihedral Group](/files/notes/Dihedralgroup.pdf) (Chinese), last revised Sep. 2023.
@@ -97,6 +97,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Sylow's Theorem](/files/notes/Sylowthm.pdf) (Chinese), last revised Oct. 2023.
 - [Free Product of Groups](/files/notes/freeprodgrps.pdf) (Chinese), last revised Nov. 2023.
 - [Pushout in the Category of Groups](/files/notes/pushoutingrpcat.pdf) (Chinese), last revised Nov. 2023.
+- [Cyclic Decomposition of Abelian Groups with Finite Exponent](/files/notes/cyclicdecofAgrpwithfexpo.pdf) (Chinese), last revised Dec. 2023.
 ---
 **Module Theory**
 - [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Dec. 2023.
