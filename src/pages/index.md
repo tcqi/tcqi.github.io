@@ -73,6 +73,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Affine Poisson Varieties](/files/notes/affinePoissonvari.pdf) (Chinese), last revised Dec. 2023.
 - [Basic Notions in the Ideal Theory of Poisson Algebras](/files/notes/Poissonidealth.pdf) (Chinese), last revised Dec. 2023.
 - [Basic Galois Theory](/files/notes/Galoistheory.pdf) (Chinese), last revised Dec. 2023.
+- [Some Topological Properties of the Maximal Spectrum](/files/notes/sometopofoMAXSPEC.pdf) (Chinese), last revised Dec. 2023.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Dec. 2023.
