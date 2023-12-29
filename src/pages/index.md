@@ -66,6 +66,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Discrete Valuation Rings and Smoothness of Affine Curves](/files/notes/smoothnessaffcurve.pdf) (Chinese), last revised Nov. 2023.
 - [Cohen–Seidenberg Theory](/files/notes/Cohen–Seidenberg.pdf) (Chinese), last revised Nov. 2023.
 - [Rank of Projective Modules](/files/notes/rankprojmCA.pdf) (Chinese), last revised Nov. 2023.
+- [Perfect Fields](/files/notes/perfields.pdf) (Chinese), last revised Dec. 2023.
 - [Dedekind Domain](/files/notes/Dedekinddomain.pdf) (Chinese), last revised Dec. 2023.
 - [Zariski Tangent Space](/files/notes/zariskitansp.pdf) (Chinese), last revised Dec. 2023.
 - [Sheaf of Regular Functions on Affine Varieties](/files/notes/sheafregfun.pdf) (Chinese), last revised Dec. 2023.
