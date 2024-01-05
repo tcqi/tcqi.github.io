@@ -76,7 +76,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Basic Galois Theory](/files/notes/Galoistheory.pdf) (Chinese), last revised Dec. 2023.
 - [Some Topological Properties of the Maximal Spectrum](/files/notes/sometopofoMAXSPEC.pdf) (Chinese), last revised Dec. 2023.
 - [Vector Fields on Affine Varieties](/files/notes/vectorfieldaffv.pdf) (Chinese), last revised Jan. 2024.
-- [Rational Maps and Birational Equivalence of Irreducible Affine Varieties](/files/notes/rationalmapbirational.pdf) (Chinese), last revised Jan. 2024.
+- [Birational Equivalence of Irreducible Affine Varieties](/files/notes/rationalmapbirational.pdf) (Chinese), last revised Jan. 2024.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Jan. 2024.
@@ -105,7 +105,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Cyclic Decomposition of Abelian Groups with Finite Exponent](/files/notes/cyclicdecofAgrpwithfexpo.pdf) (Chinese), last revised Dec. 2023.
 ---
 **Module Theory**
-- [Structure Theory for Finitely Generated Modules Over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Dec. 2023.
+- [Structure Theory for Finitely Generated Modules over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Dec. 2023.
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), last revised Dec. 2023.
 - [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised Jul. 2023.
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), last revised Oct. 2023.
