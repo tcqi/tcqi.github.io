@@ -77,6 +77,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Some Topological Properties of the Maximal Spectrum](/files/notes/sometopofoMAXSPEC.pdf) (Chinese), last revised Dec. 2023.
 - [Vector Fields on Affine Varieties](/files/notes/vectorfieldaffv.pdf) (Chinese), last revised Jan. 2024.
 - [Birational Equivalence of Irreducible Affine Varieties](/files/notes/rationalmapbirational.pdf) (Chinese), last revised Jan. 2024.
+- [Affine Schemes](/files/notes/affsche.pdf) (Chinese), last revised Jan. 2024.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Jan. 2024.
