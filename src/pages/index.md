@@ -120,7 +120,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 **Representation Theory**
 - [Brenner-ButlerTheorem](/files/notes/Brenner-ButlerTheorem.pdf) (Chinese), last revised Aug. 2023.
 - [Classical Representation Theory of Finite Groups](/files/notes/repfintegrp2023A.pdf) (Chinese),  last revised Dec. 2023.
-
+- [Central Characters](/files/notes/centrachararep.pdf) (Chinese),  last revised Jan. 2024.
 ---
 **Nonassociative Algebra**
 - [Polynomial Poisson Algebra](/files/notes/oplynoPoissnote.pdf) (Chinese), last revised Oct. 2023.
