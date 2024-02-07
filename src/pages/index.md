@@ -120,6 +120,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), last revised Oct. 2023.
 - [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), last revised Mar. 2023.
 - [Classical Isomorphisms about Finitely Generated Projective Modules](/files/notes/classicalisofgprojm.pdf) (Chinese), last revised Feb. 2024.
+- [Tensor Fields and Multlinear Functions](/files/notes/tenorfieldmultline.pdf) (Chinese), last revised Feb. 2024.
 ---
 **Category Theory**
 - [Quotient Category](/files/notes/quotientcat.pdf) (Chinese), last revised Aug. 2023.
