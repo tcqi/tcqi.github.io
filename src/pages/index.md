@@ -84,6 +84,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Rings of Smooth Functions of Smooth Manifolds](/files/notes/smoothfuncring.pdf) (Chinese), last revised Jan. 2024.
 - [Module of Derivations](/files/notes/modofderivations.pdf) (Chinese), last revised Jan. 2024.
 - [Covector Fields and Kähler Differentials](/files/notes/covecfKahldiff.pdf) (Chinese), last revised Feb. 2024.
+- [Alternating Tensors and Kähler Differentials of Higher Degree](/files/notes/alternattensorKahlerhigh.pdf) (Chinese), last revised Feb. 2024.
 - [From Affine Varieties to Affine Schemes](/files/notes/fromaffvatoaffsc.pdf) (Chinese), last revised Jan. 2024.
 ---
 **Noncommutative Algebra**
