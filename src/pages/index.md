@@ -87,6 +87,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Alternating Tensors and Kähler Differentials of Higher Degree](/files/notes/alternattensorKahlerhigh.pdf) (Chinese), last revised Feb. 2024.
 - [Interior Products, Koszul Differentials and Contraction Maps](/files/notes/inteerprodKoszul.pdf) (Chinese), last revised Feb. 2024.
 - [Canonical Poisson Structure on Symplectic Manifolds](/files/notes/symplecmanfpoisson.pdf) (Chinese), last revised Feb. 2024.
+- [Multivector Fields on Manifolds](/files/notes/multvectorfie.pdf) (Chinese), last revised Feb. 2024.
 - [From Affine Varieties to Affine Schemes](/files/notes/fromaffvatoaffsc.pdf) (Chinese), last revised Jan. 2024.
 ---
 **Noncommutative Algebra**
