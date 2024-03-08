@@ -118,7 +118,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Cyclic Decomposition of Abelian Groups with Finite Exponent](/files/notes/cyclicdecofAgrpwithfexpo.pdf) (Chinese), last revised Dec. 2023.
 ---
 **Module Theory**
-- [Structure Theory for Finitely Generated Modules over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Dec. 2023.
+- [Structure Theory for Finitely Generated Modules over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Mar. 2024.
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), last revised Dec. 2023.
 - [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised Jul. 2023.
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), last revised Oct. 2023.
