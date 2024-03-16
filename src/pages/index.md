@@ -92,10 +92,10 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Mar. 2024.
-- [Polynomial Identity Algebra](/files/notes/PIalg2013.pdf) (Chinese), last revised Mar. 2024.
+- [Polynomial Identity Algebras](/files/notes/PIalg2013.pdf) (Chinese), last revised Mar. 2024.
 - [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), last revised Mar. 2024.
 - [Dixmier-Moeglin Equivalence](/files/notes/introtoDME.pdf) (Chinese), last revised Dec. 2023.
-- [Graded Algebra](/files/notes/gradedalg.pdf) (Chinese), last revised Dec. 2023.
+- [Graded Algebras](/files/notes/gradedalg.pdf) (Chinese), last revised Dec. 2023.
 - [An Example of a Centrally Infinite Division Ring](/files/notes/centerinfidiringeg.pdf) (Chinese), last revised Jun. 2023.
 - [Endomorphism Ring of an $\aleph_{0}$-Dimensional Vector Space](/files/notes/EndofVwithcountinfd.pdf) (Chinese), last revised Nov. 2023.
 - [Differential Core of Prime Ideals](/files/notes/Differentialcoreofprimes.pdf), last revised Dec. 2023.
