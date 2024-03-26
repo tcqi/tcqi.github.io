@@ -78,6 +78,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Some Topological Properties of the Maximal Spectrum](/files/notes/sometopofoMAXSPEC.pdf) (Chinese), last revised Dec. 2023.
 - [Geometric Vector Bundles over Quasi-affine Varieties](/files/notes/geovecbundquaafv.pdf) (Chinese), last revised Jan. 2024.
 - [Vector Fields on Affine Varieties](/files/notes/vectorfieldaffv.pdf) (Chinese), last revised Jan. 2024.
+- [Kaplansky's Theorem for U.F.D.s](/files/notes/KapthmUFD.pdf) (Chinese), last revised Mar. 2024.
 - [Quadratic Integer Rings](/files/notes/quaintering.pdf) (Chinese), last revised Jan. 2024.
 - [Discriminant of an Algebraic Number Field](/files/notes/discrimofanf.pdf) (Chinese), last revised Jan. 2024.
 - [Birational Equivalence of Irreducible Affine Varieties](/files/notes/rationalmapbirational.pdf) (Chinese), last revised Jan. 2024.
