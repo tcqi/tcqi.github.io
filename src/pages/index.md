@@ -92,7 +92,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [From Affine Varieties to Affine Schemes](/files/notes/fromaffvatoaffsc.pdf) (Chinese), last revised Jan. 2024.
 ---
 **Noncommutative Algebra**
-- [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Mar. 2024.
+- [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Apr. 2024.
 - [Polynomial Identity Algebras](/files/notes/PIalg2013.pdf) (Chinese), last revised Apr. 2024.
 - [Rings of Differential Operators](/files/notes/RingsofDifferentialOperators.pdf), last revised Mar. 2024.
 - [Dixmier-Moeglin Equivalence](/files/notes/introtoDME.pdf) (Chinese), last revised Dec. 2023.
