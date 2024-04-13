@@ -54,6 +54,10 @@ projects:
       link:  https://math.rice.edu/~notlaw/index.html
       desc: Chelsea Walton is a full professor in the Mathematics Department at Rice University
       icon: i-solar:planet-linear
+    - name: Milen Yakimov's Homepage
+      link:  https://yakimov.sites.northeastern.edu/
+      desc: Milen Yakimov is a Professor of Mathematics at Northeastern University. 
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
