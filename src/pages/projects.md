@@ -56,7 +56,11 @@ projects:
       icon: i-solar:planet-linear
     - name: Milen Yakimov's Homepage
       link:  https://yakimov.sites.northeastern.edu/
-      desc: Milen Yakimov is a Professor of Mathematics at Northeastern University. 
+      desc: Milen Yakimov is a Professor of Mathematics at Northeastern University
+      icon: i-solar:planet-linear
+    - name: Claudio Procesi's Homepage
+      link:  https://www1.mat.uniroma1.it/people/procesi/
+      desc:  C. Procesi is my idol
       icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
