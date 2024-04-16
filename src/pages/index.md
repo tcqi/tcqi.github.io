@@ -123,7 +123,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 **Module Theory**
 - [Structure Theory for Finitely Generated Modules over P.I.D.](/files/notes/fgmodulePID.pdf) (Chinese), last revised Mar. 2024.
 - [Morita Equivalence](/files/notes/Moritaequiv.pdf) (Chinese), last revised Dec. 2023.
-- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised Jul. 2023.
+- [Injective Hull of a Module](/files/notes/injhullofmodule.pdf) (Chinese), last revised Apr. 2024.
 - [Projective Cover of a Module](/files/notes/projcoverofmodu.pdf) (Chinese), last revised Oct. 2023.
 - [Socle of a Module](/files/notes/socleofmodule.pdf) (Chinese), last revised Mar. 2023.
 - [Classical Isomorphisms about Finitely Generated Projective Modules](/files/notes/classicalisofgprojm.pdf) (Chinese), last revised Mar. 2024.
