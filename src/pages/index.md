@@ -59,7 +59,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 ---
 **Commutative Algebra**
 - [Commutative Algebra II](/files/notes/CA2-2023.pdf) (Chinese), last revised Apr. 2024.
-- [Bass Number](/files/notes/Bassnumb.pdf) (Chinese), last revised Apr. 2023.
+- [Bass Number](/files/notes/Bassnumb.pdf) (Chinese), last revised Apr. 2024.
 - [Homological Smoothness of Commutative Algebras](/files/notes/homologismothca.pdf) (Chinese), last revised Oct. 2023.
 - [Affine Hypersurfaces](/files/notes/affhypers.pdf) (Chinese), last revised Feb. 2024.
 - [Hochschild-Kostant-Rosenberg Theorem](/files/notes/hkrthm.pdf) (Chinese), last revised Nov. 2023.
