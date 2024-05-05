@@ -103,7 +103,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Trivial Extension of Rings](/files/notes/trivialexrings.pdf) (Chinese), last revised Dec. 2023.
 - [Wedderburn Principal Theorem](/files/notes/Wedderburnpthm.pdf) (Chinese), last revised Jan. 2024.
 - [Frobenius Algebras](/files/notes/Frobeniusalg.pdf) (Chinese), last revised Mar. 2024.
-- [Quantum Affine Spaces](/files/notes/quantumaffsp.pdf) (Chinese), last revised Mar. 2024.
+- [Quantum Affine Spaces](/files/notes/quantumaffsp.pdf) (Chinese), last revised May. 2024.
 - [Category of Algebras with Trace](/files/notes/catalgwitrace.pdf) (Chinese), last revised Apr. 2024.
 ---
 **Homological Algebra**
