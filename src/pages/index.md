@@ -104,6 +104,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Quantum Affine Spaces](/files/notes/quantumaffsp.pdf) (Chinese), last revised May. 2024.
 - [Category of Algebras with Trace](/files/notes/catalgwitrace.pdf) (Chinese), last revised Apr. 2024.
 - [Basic Ring Theoretic Properties of $\mathcal{U}_{q}(\mathfrak{sl}_{2}(\mathbb{k}))$](/files/notes/basicringpropUqsl2.pdf) (Chinese), last revised May. 2024.
+- [Automorphisms of Matrix Algebras over U.F.D.s](/files/notes/UFDautomatrixalg.pdf) (Chinese), last revised May. 2024.
 ---
 **Homological Algebra**
 - [Notes on Freyd–Mitchell Embedding Theorem](/files/notes/Freyd–Mitchellembedding.pdf) (Chinese), last revised Oct. 2023.
