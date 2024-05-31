@@ -2,7 +2,7 @@
 layout: ../layouts/About.astro
 name: 戚天成
 subname: Tian-Cheng Qi
-avatar: img/me.jpg
+avatar: img/me.png
 socials:
   - icon: i-ion:mail-outline
     link: mailto:qtcmaths@126.com
