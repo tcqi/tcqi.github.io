@@ -90,6 +90,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 - [Canonical Poisson Structure on Symplectic Manifolds](/files/notes/symplecmanfpoisson.pdf) (Chinese), last revised Feb. 2024.
 - [Multivector Fields on Manifolds](/files/notes/multvectorfie.pdf) (Chinese), last revised Feb. 2024.
 - [From Affine Varieties to Affine Schemes](/files/notes/fromaffvatoaffsc.pdf) (Chinese), last revised Jan. 2024.
+- [Reducibility of a Class of Homogeneous Polynomials](/files/notes/reducbhompolyegalgclf.pdf) (Chinese), last revised June. 2024.
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Apr. 2024.
