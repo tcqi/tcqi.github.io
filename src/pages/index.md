@@ -94,7 +94,7 @@ Readers may refer to [this book](https://link.springer.com/book/10.1007/3-540-44
 ---
 **Noncommutative Algebra**
 - [Goldie's Theorem](/files/notes/GoldieThm.pdf) (Chinese), last revised Apr. 2024.
-- [Polynomial Identity Algebras](/files/notes/PIalg2013.pdf) (Chinese), last revised June. 2024.
+- [Polynomial Identity Algebras](/files/notes/PIalg.pdf) (Chinese), last revised June. 2024.
 - [Dixmier-Moeglin Equivalence](/files/notes/introtoDME.pdf) (Chinese), last revised Dec. 2023.
 - [Graded Algebras](/files/notes/gradedalg.pdf) (Chinese), last revised Dec. 2023.
 - [An Example of a Centrally Infinite Division Ring](/files/notes/centerinfidiringeg.pdf) (Chinese), last revised Jun. 2023.
