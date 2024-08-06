@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://tcqi.github.io/",
   title: "Tian- Cheng Qi",
-  desc: "A mathman in love.",
+  desc: "Follow your own course.",
   author: "Tian-Cheng Qi"
 };
 
