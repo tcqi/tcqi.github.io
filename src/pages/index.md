@@ -39,6 +39,14 @@ Journal of Computational and Applied Mathematics, 2021.
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377042721001138)
 :::
 
+:::paper
+**Twisted Poincar\'e duality for orientable Poisson manifolds**
+
+Tiancheng Qi, Quanshui Wu
+
+arXiv:2502.16480, 2025.
+[paper](https://arxiv.org/abs/2502.16480)
+:::
 
 
 ## Teaching Assistant
