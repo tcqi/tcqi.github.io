@@ -42,7 +42,7 @@ Journal of Computational and Applied Mathematics, 2021.
 :::paper
 **Twisted Poincaré duality for orientable Poisson manifolds**
 
-Tiancheng Qi, Quanshui Wu
+<u>Tiancheng Qi</u>, Quanshui Wu
 
 arXiv:2502.16480, 2025.
 [paper](https://arxiv.org/abs/2502.16480)
