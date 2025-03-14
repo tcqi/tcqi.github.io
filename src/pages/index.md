@@ -28,7 +28,7 @@ Previously, I received my bachelor's degree in [Mathematics and Applied Mathemat
 | **B.S. in Mathematics and Applied Mathematics**, Shanghai University <p>Thesis: _The Restricted Singular Value Decomposition of Three Matrices and Its Applications_</p> | 2017-2021 |
 
 
-## Publications
+## Papers
 
 :::paper
 **The equivalence canonical form of five quaternion matrices with applications to imaging and Sylvester-type equations**
