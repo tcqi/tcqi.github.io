@@ -30,8 +30,8 @@ Previously, I received my bachelor's degree in [Mathematics and Applied Mathemat
 
 ## Papers
 
-|                                        |           |
-|--------------------------------------- | --------- |
+|                                        |
+|--------------------------------------- |
 :paper
 **The equivalence canonical form of five quaternion matrices with applications to imaging and Sylvester-type equations**
 
