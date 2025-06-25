@@ -30,14 +30,14 @@ Previously, I received my bachelor's degree in [Mathematics and Applied Mathemat
 
 ## Papers
 
-:::paper
+paper
 **The equivalence canonical form of five quaternion matrices with applications to imaging and Sylvester-type equations**
 
 Shao-Wen Yu, Zhuo-Heng He, <u>Tian-Cheng Qi</u>, and Xiang-Xiang Wang
 
 Journal of Computational and Applied Mathematics, 2021.
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377042721001138)
-:::
+
 
 :::paper
 **Twisted Poincaré duality for orientable Poisson manifolds**
