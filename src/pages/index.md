@@ -37,7 +37,6 @@ Shao-Wen Yu, Zhuo-Heng He, <u>Tian-Cheng Qi</u>, and Xiang-Xiang Wang
 
 Journal of Computational and Applied Mathematics, 2021.
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377042721001138)
-:
 
 :paper
 **Twisted Poincaré duality for orientable Poisson manifolds**
