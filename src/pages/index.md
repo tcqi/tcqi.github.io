@@ -48,6 +48,13 @@ arXiv:2502.16480, 2025.
 [paper](https://arxiv.org/abs/2502.16480), submitted
 :::
 
+:::paper
+**Chevalley property and discriminant ideals of Cayley-Hamilton Hopf Algebras**
+
+Yimin Huang, Zhongkai Mi, <u>Tiancheng Qi</u>, and Quanshui Wu
+
+arXiv submitted
+:::
 
 ## Teaching Assistant
 
