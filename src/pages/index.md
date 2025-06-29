@@ -53,7 +53,6 @@ arXiv:2502.16480, 2025.
 
 Yimin Huang, Zhongkai Mi, <u>Tiancheng Qi</u>, and Quanshui Wu
 
-2025.
 :::
 
 ## Teaching Assistant
