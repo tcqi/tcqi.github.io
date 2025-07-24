@@ -5,7 +5,7 @@ subname: Tian-Cheng Qi
 avatar: img/me.png
 socials:
   - icon: i-ion:mail-outline
-    link: mailto:qtcmaths@126.com
+    link: mailto:21110180018@m.fudan.edu.cn
   - icon: i-eva:github-outline
     link: https://github.com/tcqi
   - icon: i-radix-icons:linkedin-logo
