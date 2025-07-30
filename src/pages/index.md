@@ -74,6 +74,8 @@ Here are some of my study notes (in Chinese).
 
 [Commutative algebra](/files/notes/CA2-2025.pdf)
 
+[Dedekind domain](/files/notes/Dedekinddomain.pdf)
+
 [Derived category](/files/notes/derivedcat.pdf)
 
 [Diamond's Lemma](/files/notes/diamlem.pdf)
