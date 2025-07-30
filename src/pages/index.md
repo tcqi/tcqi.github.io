@@ -73,6 +73,9 @@ arXiv:2506.21879, 2025.
 
 
 [Commutative algebra](/files/notes/CA2-2025.pdf)
+
 [Diamond's Lemma](/files/notes/diamlem.pdf)
+
 [Goldie's Theorem](/files/notes/CA2-GoldieThm.pdf)
+
 [Lie algebra](/files/notes/Liealg.pdf)
