@@ -72,18 +72,18 @@ arXiv:2506.21879, 2025.
 |--------------------------------------- | --------- |
 Here are some of my study notes (in Chinese).
 
-[Commutative algebra](/files/notes/CA2-2025.pdf)
+[Commutative Algebra](/files/notes/CA2-2025.pdf)
 
-[Dedekind domain](/files/notes/Dedekinddomain.pdf)
+[Dedekind Domain](/files/notes/Dedekinddomain.pdf)
 
-[Derived category](/files/notes/derivedcat.pdf)
+[Derived Category](/files/notes/derivedcat.pdf)
 
 [Diamond's Lemma](/files/notes/diamlem.pdf)
 
 [Goldie's Theorem](/files/notes/GoldieThm.pdf)
 
-[$I$-adic completion](/files/notes/I-adiccom.pdf)
+[$I$-adic Completion](/files/notes/I-adiccom.pdf)
 
-[Lie algebra](/files/notes/Liealg.pdf)
+[Lie Algebra](/files/notes/Liealg.pdf)
 
-[Representation theory of finite groups](/files/notes/repfintegrp2025.pdf)
+[Representation Theory of Finite Groups](/files/notes/repfintegrp2025.pdf)
