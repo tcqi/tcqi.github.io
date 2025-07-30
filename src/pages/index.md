@@ -82,6 +82,8 @@ Here are some of my study notes (in Chinese).
 
 [Goldie's Theorem](/files/notes/GoldieThm.pdf)
 
+[$I$-adic completion](/files/notes/I-adiccom.pdf)
+
 [Lie algebra](/files/notes/Liealg.pdf)
 
 [Representation theory of finite groups](/files/notes/repfintegrp2025.pdf)
