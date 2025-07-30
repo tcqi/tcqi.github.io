@@ -76,6 +76,8 @@ arXiv:2506.21879, 2025.
 
 [Diamond's Lemma](/files/notes/diamlem.pdf)
 
-[Goldie's Theorem](/files/notes/CA2-GoldieThm.pdf)
+[Goldie's Theorem](/files/notes/GoldieThm.pdf)
 
 [Lie algebra](/files/notes/Liealg.pdf)
+
+[Representation theory of finite groups](/files/notes/repfintegrp2025.pdf)
