@@ -67,5 +67,5 @@ arXiv:2506.21879, 2025.
 
 
 ## Personal Notes
-
+|--------------------------------------- | --------- |
 [Commutative algebra](/files/notes/CA2-2023.pdf)
