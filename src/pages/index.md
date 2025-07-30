@@ -64,3 +64,8 @@ arXiv:2506.21879, 2025.
 | **Modern Algebra II(H)**, _[Syllabus](/files/syllabus/MATH130143h.03-2023-2024-1.pdf)_, Fudan University, China  | 2023.9–2023.12 |
 
 
+
+
+## Personal Notes
+
+[Commutative algebra](/files/notes/CA2-2023.pdf)
