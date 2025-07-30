@@ -70,8 +70,6 @@ arXiv:2506.21879, 2025.
 
 |                                        |           |
 |--------------------------------------- | --------- |
-
-
 [Commutative algebra](/files/notes/CA2-2025.pdf)
 
 [Derived category](/files/notes/derivedcat.pdf)
