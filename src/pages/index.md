@@ -72,10 +72,10 @@ arXiv:2506.21879, 2025.
 |--------------------------------------- | --------- |
 Here are some of my study notes (in Chinese).
 
-[Commutative Algebra](/files/notes/CA2-2025.pdf), July 2025.  
-[Dedekind Domain](/files/notes/Dedekinddomain.pdf)  
-[Derived Category](/files/notes/derivedcat.pdf)  
-[Diamond's Lemma](/files/notes/diamlem.pdf)  
+[Commutative Algebra](/files/notes/CA2-2025.pdf), last edited on July 2025.  
+[Dedekind Domain](/files/notes/Dedekinddomain.pdf), July 2025.  
+[Derived Category](/files/notes/derivedcat.pdf), July 2025.  
+[Diamond's Lemma](/files/notes/diamlem.pdf), July 2025.  
 [Goldie's Theorem](/files/notes/GoldieThm.pdf) 
 [$I$-adic Completion](/files/notes/I-adiccom.pdf)  
 [Lie Algebra](/files/notes/Liealg.pdf)   
