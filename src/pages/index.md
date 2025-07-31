@@ -76,7 +76,7 @@ Here are some of my study notes (in Chinese).
 [Dedekind Domain](/files/notes/Dedekinddomain.pdf), last edited on July 2025.  
 [Derived Category](/files/notes/derivedcat.pdf), last edited on July 2025.  
 [Diamond's Lemma](/files/notes/diamlem.pdf), last edited on July 2025.  
-[Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on July 2025. 
+[Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on July 2025.   
 [$I$-adic Completion](/files/notes/I-adiccom.pdf), last edited on July 2025.  
 [Lie Algebra](/files/notes/Liealg.pdf), last edited on July 2025.   
 [Representation Theory of Finite Groups](/files/notes/repfintegrp2025.pdf), last edited on July 2025.
