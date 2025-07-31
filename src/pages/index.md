@@ -70,7 +70,7 @@ arXiv:2506.21879, 2025.
 
 |                                        |           |
 |--------------------------------------- | --------- |
-Here are some of my study notes (in Chinese).
+Here are some of my study notes on the basics of algebra(in Chinese).
 
 [Commutative Algebra](/files/notes/CA2-2025.pdf), last edited on July 2025.  
 [Dedekind Domain](/files/notes/Dedekinddomain.pdf), last edited on July 2025.  
