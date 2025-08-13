@@ -57,6 +57,12 @@ arXiv:2506.21879, 2025.
 [paper](https://arxiv.org/abs/2506.21879), submitted
 :::
 
+## Talks
+|                                        |           |
+|--------------------------------------- | --------- |
+| **Twisted Poincaré duality for orientable Poisson manifolds**. 17th National Conference on Algebra, Harbin  | 2025.8.13 |
+
+
 ## Teaching Assistant
 
 |                                        |           |
