@@ -61,7 +61,7 @@ arXiv:2506.21879, 2025.
 |                                        |           |
 |--------------------------------------- | --------- |
 
-Twisted Poincaré duality for orientable Poisson manifolds, 17th National Conference on Algebra, Harbin Engineering University, China, Aug.13, 2025.
+|1. Twisted Poincaré duality for orientable Poisson manifolds, 17th National Conference on Algebra, Harbin Engineering University, China,| Aug.13, 2025.|
 
 
 
