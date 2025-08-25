@@ -64,7 +64,7 @@ Here are my conference presentations and invited talk experiences.
 
 1. Twisted Poincaré duality for orientable Poisson manifolds, 17th National Conference on Algebra, Harbin Engineering University, China, Aug.13, 2025.
 
-
+2. Twisted Poincaré duality for orientable Poisson manifolds, Workshop on Algebraic Deformation and Quantization, Ningbo University, China, Aug.23, 2025.
 
 
 
