@@ -84,7 +84,7 @@ $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Workshop o
 
 |                                        |           |
 |--------------------------------------- | --------- |
-Here are some of my study notes on the basics of algebra(in Chinese).
+Here are some of my study notes on the basics of algebra (in Chinese).
 
 $\bullet$ [Affine Schemes](/files/notes/affinesch.pdf.pdf), last edited on Feb. 2025.  
 $\bullet$ [Commutative Algebra](/files/notes/CA2-2025.pdf), last edited on Jun. 2025.  
