@@ -90,9 +90,9 @@ $\bullet$ [Affine Schemes](/files/notes/affinesch.pdf), last edited on Feb. 2025
 $\bullet$ [Commutative Algebra](/files/notes/CA2-2025.pdf), last edited on Jun. 2025.  
 $\bullet$ [Dedekind Domain](/files/notes/Dedekinddomain.pdf), last edited on Feb. 2025.  
 $\bullet$ [Derived Category](/files/notes/derivedcat.pdf), last edited on Dec. 2024.  
-$\bullet$ [Diamond Lemma](/files/notes/diamlem.pdf), last edited on July. 2025.
+$\bullet$ [Diamond Lemma](/files/notes/diamlem.pdf), last edited on July. 2025.  
+$\bullet$ [Gelfand-Kirillov Dimension](/files/notes/GKdim.pdf), last edited on Sep. 2025.  
 $\bullet$ [Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on Sep. 2025.   
 $\bullet$ [$I$-adic Completion](/files/notes/I-adiccom.pdf), last edited on Feb. 2025.  
 $\bullet$ [Lie Algebra](/files/notes/Liealg.pdf), last edited on July. 2025.   
 $\bullet$ [Representation Theory of Finite Groups](/files/notes/repfintegrp2025.pdf), last edited on Jan. 2025.
-$\bullet$ [Gelfand-Kirillov Dimension](/files/notes/GKdim.pdf), last edited on Sep. 2025.
