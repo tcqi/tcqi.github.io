@@ -96,4 +96,5 @@ $\bullet$ [Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on Sep. 20
 $\bullet$ [$I$-adic Completion](/files/notes/I-adiccom.pdf), last edited on Feb. 2025.  
 $\bullet$ [Lie Algebras](/files/notes/Liealg.pdf), last edited on July. 2025.   
 $\bullet$ [Quantum affine spaces](/files/notes/quantumaffsp.pdf.pdf), last edited on May. 2024.
-$\bullet$ [Representation Theory of Finite Groups](/files/notes/repfintegrp2025.pdf), last edited on Jan. 2025.
+$\bullet$ [Representation Theory of Finite Groups](/files/notes/repfintegrp2025.pdf), last edited on Jan. 2025.  
+$\bullet$ [Wedderburn's Principal Theorem](/files/notes/Wedderburnpthm.pdf), last edited on Jan. 2024.
