@@ -67,6 +67,10 @@ projects:
       link: https://www.c01day.com/about/
       desc: Dawei helped me build this homepage :)
       icon: i-lucide:hammer
+    - name: Yuanxin Guan's Homepage
+      link: https://yuanxinguan-topo.github.io/
+      desc:  :)
+      icon: i-lucide:hammer
   Websites:
     - name: Mathematics Genealogy Project
       link: https://www.mathgenealogy.org/index.php
