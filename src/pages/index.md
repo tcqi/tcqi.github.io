@@ -49,7 +49,7 @@ arXiv:2502.16480, 2025.
 :::
 
 :::paper
-**Chevalley property and discriminant ideals of Cayley-Hamilton Hopf Algebras**
+**Chevalley property and discriminant ideals of Cayley-Hamilton Hopf algebras**
 
 Yimin Huang, Zhongkai Mi, <u>Tiancheng Qi</u>, and Quanshui Wu
 
