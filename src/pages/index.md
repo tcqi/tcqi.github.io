@@ -62,7 +62,7 @@ arXiv:2506.21879, 2025.
 |--------------------------------------- | --------- |
 Here are my conference presentations and invited talk experiences.
 
-$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, [17th National Conference on Algebra](https://17thdaishu.hrbeu.edu.cn/index.htm), Harbin Engineering University, China, Aug.13, 2025.
+$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, [17th National Conference on Algebra](https://17thdaishu.hrbeu.edu.cn/index.htm), [Harbin Engineering University](http://www.hrbeu.edu.cn/), China, Aug.13, 2025.
 
 $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Workshop on Algebraic Deformation and Quantization, [Ningbo University](https://www.nbu.edu.cn/), China, Aug.23, 2025.
 
