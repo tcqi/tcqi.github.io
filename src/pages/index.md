@@ -66,7 +66,7 @@ $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, [17th Nati
 
 $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Workshop on Algebraic Deformation and Quantization, [Ningbo University](https://www.nbu.edu.cn/), China, Aug.23, 2025.
 
-$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Professor Zhou's Seminar, [East China Normal University](https://www.ecnu.edu.cn/), China, Oct.24, 2025.
+$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Professor [Guodong Zhou](https://math.ecnu.edu.cn/~gdzhou/intro_c.html?language=1&id=182)'s Seminar, [East China Normal University](https://www.ecnu.edu.cn/), China, Oct.24, 2025.
 
 
 
