@@ -94,7 +94,7 @@ $\bullet$ [Dedekind Domains](/files/notes/Dedekinddomain.pdf), last edited on Fe
 $\bullet$ [Derived Category](/files/notes/derivedcat.pdf), last edited on Dec. 2024.  
 $\bullet$ [Diamond Lemma](/files/notes/diamlem.pdf), last edited on July. 2025.  
 $\bullet$ [Gelfand-Kirillov Dimension](/files/notes/GKdim.pdf), last edited on Sep. 2025.  
-$\bullet$ [Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on Sep. 2025.   
+$\bullet$ [Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on Nov. 2025.   
 $\bullet$ [$I$-adic Completion](/files/notes/I-adiccom.pdf), last edited on Feb. 2025.  
 $\bullet$ [Lie Algebras](/files/notes/Liealg.pdf), last edited on Nov. 2025.   
 $\bullet$ [Quantum Affine Spaces](/files/notes/quantumaffsp.pdf), last edited on May. 2024.   
