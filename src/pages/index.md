@@ -102,4 +102,4 @@ $\bullet$ [Quantum Affine Spaces](/files/notes/quantumaffsp.pdf), last edited on
 $\bullet$ [Quotient Category](/files/notes/quotientcat.pdf), last edited on Aug. 2023.     
 $\bullet$ [Representation Theory of Finite Groups](/files/notes/repfintegrp2025.pdf), last edited on Jan. 2025.  
 $\bullet$ [Wedderburn's Principal Theorem](/files/notes/Wedderburnpthm.pdf), last edited on Jan. 2024.  
-$\bullet$ [Zariski Tangent Space](/files/notes/zariskitansp.pdf), last edited on Sep. 2025. 
+$\bullet$ [Zariski Tangent Space](/files/notes/zariskitansp.pdf), last edited on Dec. 2025. 
