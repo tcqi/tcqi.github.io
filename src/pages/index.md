@@ -66,7 +66,9 @@ $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, [17th Nati
 
 $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Workshop on Algebraic Deformation and Quantization, [Ningbo University](https://www.nbu.edu.cn/), China, Aug.23, 2025.
 
-$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Professor [Guodong Zhou](https://math.ecnu.edu.cn/~gdzhou/intro_c.html?language=1&id=182)'s Seminar, [East China Normal University](https://www.ecnu.edu.cn/), China, Oct.24, 2025.
+$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Professor [Guodong Zhou](https://math.ecnu.edu.cn/~gdzhou/intro_c.html?language=1&id=182)'s Seminar, [East China Normal University](https://www.ecnu.edu.cn/), China, Oct.24, 2025. 
+
+$\bullet$ Irreducible Representations of Module-finite Hopf Algebras via Discriminant Ideals, 2026 Workshop on Noncommutative Algebra, [Hangzhou Normal University](https://www.hznu.edu.cn/), China, Apr. 4, 2026.
 
 
 
