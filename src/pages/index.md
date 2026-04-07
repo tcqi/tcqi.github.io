@@ -100,7 +100,7 @@ $\bullet$ [Gelfand-Kirillov Dimension](/files/notes/GKdim.pdf), last edited on S
 $\bullet$ [Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on Nov. 2025.   
 $\bullet$ [$I$-adic Completion](/files/notes/I-adiccom.pdf), last edited on Feb. 2025.   
 $\bullet$ [Introduction to Algebraic Varieties](/files/notes/introAlgVar.pdf), last edited on Feb. 2026.      
-$\bullet$ [Lie Algebras](/files/notes/Liealg.pdf), last edited on Feb. 2026.   
+$\bullet$ [Lie Algebras](/files/notes/Liealg.pdf), last edited on Apr. 2026.   
 $\bullet$ [Lusztig's Small Quantum Group](/files/notes/Lusztigsmallqgrp.pdf), last edited on Mar. 2026.   
 $\bullet$ [Quantum Affine Spaces](/files/notes/quantumaffsp.pdf), last edited on May. 2024.   
 $\bullet$ [Quotient Category](/files/notes/quotientcat.pdf), last edited on Aug. 2023.     
