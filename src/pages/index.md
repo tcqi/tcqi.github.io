@@ -57,6 +57,13 @@ arXiv:2506.21879, 2025.
 [paper](https://arxiv.org/abs/2506.21879), submitted
 :::
 
+:::paper
+**Chevalley property of module-finite Hopf algebras and discriminant ideals**
+
+Yimin Huang, <u>Tiancheng Qi</u>, Quanshui Wu and Ruipeng Zhu
+
+arXiv, 2025.
+:::
 ## Talks
 |                                        |           |
 |--------------------------------------- | --------- |
