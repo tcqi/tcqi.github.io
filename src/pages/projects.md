@@ -62,6 +62,10 @@ projects:
       link:  https://www1.mat.uniroma1.it/people/procesi/
       desc:  C. Procesi is my idol
       icon: i-solar:planet-linear
+    - name: Zhichao Chen's Homepage
+      link:  https://sites.google.com/view/zhichao-chen/about
+      desc:  Zhichao Chen is a PhD student at University of Science and Technology of China
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
