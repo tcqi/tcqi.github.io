@@ -66,6 +66,10 @@ projects:
       link:  https://sites.google.com/view/zhichao-chen/about
       desc:  Zhichao Chen is a PhD student at University of Science and Technology of China
       icon: i-solar:planet-linear
+    - name: Inasa Nakamura's Homepage
+      link:  http://inasa.ms.saga-u.ac.jp/English/Nakamura-English.html
+      desc:  Inasa Nakamura is a Professor of Mathematics at Saga University
+      icon: i-solar:planet-linear
   Homepages of My Friends:
     - name: Dawei Zhou's Homepage
       link: https://www.c01day.com/about/
