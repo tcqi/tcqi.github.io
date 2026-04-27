@@ -63,7 +63,7 @@ arXiv:2506.21879, 2025.
 Yimin Huang, <u>Tiancheng Qi</u>, Quanshui Wu and Ruipeng Zhu
 
 arXiv:2604.15986, 2026.
-[paper](https://arxiv.org/abs/2604.15986)
+[paper](https://arxiv.org/abs/2604.15986), submitted
 :::
 ## Talks
 |                                        |           |
