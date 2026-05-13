@@ -99,7 +99,7 @@ $\bullet$ Irreducible Representations of Module-finite Hopf Algebras via Discrim
 Here are some of my study notes on the basics of algebra (in Chinese).
 
 $\bullet$ [Affine Schemes](/files/notes/affinesch.pdf), last edited on Feb. 2025.  
-$\bullet$ [Analytification of a complex smooth affine variety](/files/notes/anayofaffsmothv.pdf), last edited on Dec. 2025.  
+$\bullet$ [Analytification of a complex smooth affine variety](/files/notes/anayofaffsmothv.pdf), last edited on May. 2026.  
 $\bullet$ [Commutative Algebra](/files/notes/CA2-2025.pdf), last edited on Apr. 2026.  
 $\bullet$ [Dedekind Domains](/files/notes/Dedekinddomain.pdf), last edited on Feb. 2025.  
 $\bullet$ [Derived Category](/files/notes/derivedcat.pdf), last edited on Dec. 2024.  
