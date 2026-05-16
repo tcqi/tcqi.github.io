@@ -16,9 +16,9 @@ socials:
     link: https://www.zhihu.com/people/qi-tian-cheng-2-91
 ---
 
-I am a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Quanshui Wu](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). My current research interests lie primarily in noncommutative algebra/geometry, Poisson algebra/geometry and quantum group theory. I am also interested in Rubik's Cube, table tennis and badminton. [Here](https://www.worldcubeassociation.org/persons/2015QITI01) is my homepage on the website of the [World Cube Association](https://en.wikipedia.org/wiki/World_Cube_Association).
+I am a PhD student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Prof. [Wu Quanshui](https://math.fudan.edu.cn/fa/05/c30607a326149/page.htm). My current research interests lie primarily in noncommutative algebra/geometry, Poisson algebra/geometry and quantum group theory. I am also interested in Rubik's Cube, table tennis and badminton. [Here](https://www.worldcubeassociation.org/persons/2015QITI01) is my homepage on the website of the [World Cube Association](https://en.wikipedia.org/wiki/World_Cube_Association).
 
-Previously, I received my bachelor's degree in [Mathematics and Applied Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/), supervised by Prof. [Zhuo-Heng He](https://irctmt.shu.edu.cn/Portals/728/teacher/ZhuohengHe/ZhuohengHe.html).
+Previously, I received my bachelor's degree in [Mathematics and Applied Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/), supervised by Prof. [He Zhuo-Heng](https://irctmt.shu.edu.cn/Portals/728/teacher/ZhuohengHe/ZhuohengHe.html).
 
 
 ## Education
@@ -74,7 +74,7 @@ $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, [17th Nati
 
 $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Workshop on Algebraic Deformation and Quantization, [Ningbo University](https://www.nbu.edu.cn/), China, Aug.23, 2025.
 
-$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Professor [Guodong Zhou](https://math.ecnu.edu.cn/~gdzhou/intro_c.html?language=1&id=182)'s Seminar, [East China Normal University](https://www.ecnu.edu.cn/), China, Oct.24, 2025. 
+$\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Prof. [Zhou Guodong](https://math.ecnu.edu.cn/~gdzhou/intro_c.html?language=1&id=182)'s Seminar, [East China Normal University](https://www.ecnu.edu.cn/), China, Oct.24, 2025. 
 
 $\bullet$ Irreducible Representations of Module-finite Hopf Algebras via Discriminant Ideals, 2026 Workshop on Noncommutative Algebra, [Hangzhou Normal University](https://www.hznu.edu.cn/), China, Apr. 4, 2026.
 
