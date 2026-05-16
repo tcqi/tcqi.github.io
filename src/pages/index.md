@@ -78,6 +78,10 @@ $\bullet$ Twisted Poincaré duality for orientable Poisson manifolds, Professor 
 
 $\bullet$ Irreducible Representations of Module-finite Hopf Algebras via Discriminant Ideals, 2026 Workshop on Noncommutative Algebra, [Hangzhou Normal University](https://www.hznu.edu.cn/), China, Apr. 4, 2026.
 
+$\bullet$ Chevalley Property of Module-finite Hopf Algebras via Discriminant Ideals, Young Scholars Workshop on Algebraic Representation Theory and Noncommutative Geometry, [University of Science and Technology of China
+](https://www.ustc.edu.cn/), China, May. 16, 2026.
+
+
 
 
 
