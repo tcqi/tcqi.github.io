@@ -40,6 +40,15 @@ Journal of Computational and Applied Mathematics, 2021.
 :::
 
 :::paper
+**Chevalley property and discriminant ideals of Cayley-Hamilton Hopf algebras**
+
+Yimin Huang, Zhongkai Mi, <u>Tiancheng Qi</u>, and Quanshui Wu
+
+International Mathematics Research Notices, 2026.
+[paper]( https://doi.org/10.1093/imrn/rnag111)
+:::
+
+:::paper
 **Twisted Poincaré duality for orientable Poisson manifolds**
 
 <u>Tiancheng Qi</u>, Quanshui Wu
@@ -48,14 +57,6 @@ arXiv:2502.16480, 2025.
 [paper](https://arxiv.org/abs/2502.16480), submitted
 :::
 
-:::paper
-**Chevalley property and discriminant ideals of Cayley-Hamilton Hopf algebras**
-
-Yimin Huang, Zhongkai Mi, <u>Tiancheng Qi</u>, and Quanshui Wu
-
-arXiv:2506.21879, 2025.
-[paper](https://arxiv.org/abs/2506.21879), to appear in International Mathematics Research Notices
-:::
 
 :::paper
 **Chevalley property of module-finite Hopf algebras and discriminant ideals**
