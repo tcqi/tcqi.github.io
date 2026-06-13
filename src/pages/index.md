@@ -20,7 +20,7 @@ I am a PhD student in the [School of Mathematical Sciences](https://math.fudan.e
 
 Previously, I received my bachelor's degree in [Mathematics and Applied Mathematics](http://math.shu.edu.cn/) at [Shanghai University](https://www.shu.edu.cn/), supervised by Prof. [He Zhuo-Heng](https://irctmt.shu.edu.cn/Portals/728/teacher/ZhuohengHe/ZhuohengHe.html).
 
-**I expect to graduate in the summer of 2027 and I am currently seeking postdoctoral opportunities.**
+I expect to graduate in the summer of 2027 and I am currently seeking postdoctoral opportunities.
 
 ## Education
 
