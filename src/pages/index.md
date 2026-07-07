@@ -83,6 +83,10 @@ $\bullet$ Irreducible Representations of Module-finite Hopf Algebras via Discrim
 $\bullet$ Chevalley Property of Module-finite Hopf Algebras via Discriminant Ideals, Young Scholars Workshop on Algebraic Representation Theory and Noncommutative Geometry, [University of Science and Technology of China
 ](https://www.ustc.edu.cn/), China, May. 16, 2026.
 
+$\bullet$ Chevalley Property of Module-finite Hopf Algebras via Discriminant Ideals, [Saga Souhatsu Mathematical Seminar 2026](http://inasa.ms.saga-u.ac.jp/Japanese/saga-souhatsu.html)
+, [Saga University](https://www.saga-u.ac.jp/), Japan, July. 7, 2026.
+
+
 
 
 
