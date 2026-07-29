@@ -109,7 +109,8 @@ $\bullet$ Chevalley Property of Module-finite Hopf Algebras via Discriminant Ide
 Here are some of my study notes on the basics of algebra (in Chinese).
 
 $\bullet$ [Affine Schemes](/files/notes/affinesch.pdf), last edited on Feb. 2025.  
-$\bullet$ [Analytification of a complex smooth affine variety](/files/notes/anayofaffsmothv.pdf), last edited on May. 2026.  
+$\bullet$ [Analytification of a complex smooth affine variety](/files/notes/anayofaffsmothv.pdf), last edited on May. 2026.    
+$\bullet$ [Clifford Algebras](/files/notes/Cliffordalgs.pdf), last edited on Jul. 2026.  
 $\bullet$ [Commutative Algebra](/files/notes/CA2-2025.pdf), last edited on Apr. 2026.  
 $\bullet$ [Dedekind Domains](/files/notes/Dedekinddomain.pdf), last edited on Feb. 2025.  
 $\bullet$ [Deligne's Tensor Product](/files/notes/Delignetensor.pdf), last edited on Jun. 2026.  
@@ -119,7 +120,7 @@ $\bullet$ [Gelfand-Kirillov Dimension](/files/notes/GKdim.pdf), last edited on S
 $\bullet$ [Goldie's Theorem](/files/notes/GoldieThm.pdf), last edited on May. 2026.   
 $\bullet$ [$I$-adic Completion](/files/notes/I-adiccom.pdf), last edited on Apr. 2026.   
 $\bullet$ [Introduction to Algebraic Varieties](/files/notes/introAlgVar.pdf), last edited on July. 2026.      
-$\bullet$ [Lie Algebras](/files/notes/Liealg.pdf), last edited on July. 2026.   
+$\bullet$ [Lie Algebras](/files/notes/Liealg.pdf), last edited on Jul. 2026.   
 $\bullet$ [Lusztig's Small Quantum Group](/files/notes/Lusztigsmallqgrp.pdf), last edited on Apr. 2026.   
 $\bullet$ [Quantum Affine Spaces](/files/notes/quantumaffsp.pdf), last edited on May. 2024.   
 $\bullet$ [Quotient Category](/files/notes/quotientcat.pdf), last edited on Aug. 2023.     
