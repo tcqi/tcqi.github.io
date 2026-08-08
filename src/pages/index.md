@@ -55,7 +55,7 @@ International Mathematics Research Notices, 2026.
 <u>Tiancheng Qi</u>, Quanshui Wu
 
 arXiv:2502.16480, 2025.
-[paper](https://arxiv.org/abs/2502.16480), submitted
+[paper](https://arxiv.org/abs/2502.16480), to appear in Journal of Geometry and Physics
 :::
 
 
