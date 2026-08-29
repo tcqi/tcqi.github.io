@@ -86,6 +86,8 @@ $\bullet$ Chevalley Property of Module-finite Hopf Algebras via Discriminant Ide
 $\bullet$ Chevalley Property of Module-finite Hopf Algebras via Discriminant Ideals, [Saga Souhatsu Mathematical Seminar 2026](http://inasa.ms.saga-u.ac.jp/Japanese/saga-souhatsu.html)
 , [Saga University](https://www.saga-u.ac.jp/), Japan, July. 7, 2026.
 
+$\bullet$ Unimodular Module Categories Arising from Module-Finite Hopf Algebras, The 11th National Conference on Hopf Algebras, [Yangzhou University](https://www.yzu.edu.cn/), China, Aug. 29, 2026.
+
 
 
 
