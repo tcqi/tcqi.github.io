@@ -64,9 +64,19 @@ Journal of Geometry and Physics, 2026.
 
 Yimin Huang, <u>Tiancheng Qi</u>, Quanshui Wu and Ruipeng Zhu
 
-arXiv:2604.15986, 2026.
+arXiv: 2604.15986, 2026.
 [paper](https://arxiv.org/abs/2604.15986), submitted
 :::
+
+:::paper
+**Homological properties of quantum groups governed by small quantum groups**
+
+Yimin Huang, <u>Tiancheng Qi</u>, Quanshui Wu and Ruipeng Zhu
+
+arXiv: 2609.08205, 2026.
+[paper](https://arxiv.org/abs/2609.08205)
+:::
+
 ## Talks
 |                                        |           |
 |--------------------------------------- | --------- |
